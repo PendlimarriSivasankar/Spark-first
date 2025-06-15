@@ -1,0 +1,11 @@
+{
+	"place": "Hyderabad",
+	"user": {
+		"name": "zeyo",
+		"address": {
+			"number": "40",
+			"street": "ashok nagar",
+			"pin": "400209"
+		}
+	}
+}

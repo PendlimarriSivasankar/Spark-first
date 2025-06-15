@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "christian",
+                    "last": "martin"
+                },
+                "location": {
+                    "street": "8319 calle de la almudena",
+                    "city": "alcalá de henares",
+                    "state": "melilla",
+                    "zip": 30827
+                },
+                "email": "christian.martin@example.com",
+                "username": "heavybear956",
+                "password": "moondog",
+                "salt": "fmzamtzk",
+                "md5": "96752f33a5509a2d2dc32fe4eb82589d",
+                "sha1": "682f0c3f7a08abdb35323ee330a9e9745ece57df",
+                "sha256": "cb354dcdcb3ab2e672238526f89dfca8624d18ff08d83949f05d853f39da994b",
+                "registered": 943891694,
+                "dob": 562191117,
+                "phone": "929-605-983",
+                "cell": "644-567-261",
+                "DNI": "63407316-E",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/94.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+                }
+            }
+        }
+		],
+    "nationality": "ES",
+    "seed": "a48cc7996851186805",
+    "version": "0.8"
+}

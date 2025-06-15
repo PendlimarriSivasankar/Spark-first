@@ -1,0 +1,9 @@
+{
+	"id": 1,
+	"trainer": "sai",
+	"institute": "zeyobron",
+	"location": {
+		"permanentLocation": "Hyderabad",
+		"temporaryLocation": "chennai"
+	}
+}

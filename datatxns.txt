@@ -1,0 +1,6 @@
+00000003,Gymnastics,GymnasticsRings,credit
+00000014,Gymnastics,Vaulting,credit
+00000023,Gymnastics,GymnasticsRings,credit
+00000045,Exercise,Abdominal,credit
+00000046,Gymnastics,Vaulting,credit
+00000050,Jumping,Pogo,credit

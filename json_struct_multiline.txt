@@ -1,0 +1,60 @@
+{
+	"id": "000",
+	"type": "donut",
+	"name": "Non cream",
+	"image": {
+		"url": "images/0001.jpg",
+		"width": 200,
+		"height": 200
+	},
+	"thumbnail": {
+		"url": "images/thumbnails/0001.jpg",
+		"width": 33,
+		"height": 33
+	}
+}
+{
+	"id": "0002",
+	"type": "cake",
+	"name": "cream",
+	"image": {
+		"url": "images/0002.jpg",
+		"width": 200,
+		"height": 201
+	},
+	"thumbnail": {
+		"url": "images/thumbnails/0002.jpg",
+		"width": 34,
+		"height": 34
+	}
+}
+{
+	"id": "0003",
+	"type": "bun",
+	"name": "cake",
+	"image": {
+		"url": "images/0003.jpg",
+		"width": 200,
+		"height": 202
+	},
+	"thumbnail": {
+		"url": "images/thumbnails/0003.jpg",
+		"width": 32,
+		"height": 32
+	}
+}
+{
+	"id": "0004",
+	"type": "sweet",
+	"name": "Cake",
+	"image": {
+		"url": "images/0004.jpg",
+		"width": 200,
+		"height": 203
+	},
+	"thumbnail": {
+		"url": "images/thumbnails/0004.jpg",
+		"width": 32,
+		"height": 32
+	}
+}

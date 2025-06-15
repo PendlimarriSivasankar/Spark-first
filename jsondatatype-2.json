@@ -1,0 +1,9 @@
+{
+	"id" : 2078,
+	"trainerName" : "Raju",
+	"technology" : "bigData",
+	"address" : {
+					"temporary" : "chennai",
+					"permanent" : "hyderabad"
+				}
+}

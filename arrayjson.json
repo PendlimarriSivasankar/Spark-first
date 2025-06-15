@@ -1,0 +1,25 @@
+{
+		"first_name":"zeyobron",
+		"second_name":"analytics",
+		"address": {
+				"temporary_address":"Chennai",
+				"perminent_address":"Hyderabad"
+		},
+		"Students": [
+					{
+					"gender":"male",
+					"name":"alok"
+					},
+					
+					{
+					"gender":"male",
+					"name":"sanjay"
+					},
+					{
+					"gender":"female",
+					"name":"harini"}
+					
+				
+		]
+		
+}

@@ -1,0 +1,337 @@
+{
+    "results": [
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "christian",
+                    "last": "martin"
+                },
+                "location": {
+                    "street": "8319 calle de la almudena",
+                    "city": "alcalá de henares",
+                    "state": "melilla",
+                    "zip": 30827
+                },
+                "email": "christian.martin@example.com",
+                "username": "heavybear956",
+                "password": "moondog",
+                "salt": "fmzamtzk",
+                "md5": "96752f33a5509a2d2dc32fe4eb82589d",
+                "sha1": "682f0c3f7a08abdb35323ee330a9e9745ece57df",
+                "sha256": "cb354dcdcb3ab2e672238526f89dfca8624d18ff08d83949f05d853f39da994b",
+                "registered": 943891694,
+                "dob": 562191117,
+                "phone": "929-605-983",
+                "cell": "644-567-261",
+                "DNI": "63407316-E",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/94.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "javier",
+                    "last": "perez"
+                },
+                "location": {
+                    "street": "4540 calle de téllez",
+                    "city": "san sebastián de los reyes",
+                    "state": "andalucía",
+                    "zip": 27932
+                },
+                "email": "javier.perez@example.com",
+                "username": "silverlion444",
+                "password": "gothic",
+                "salt": "G9pSMFoq",
+                "md5": "cc30d88053d927880f43f759fff483cd",
+                "sha1": "fe1c840b08e2aa94b32bfb5b85501a5e30cb33ac",
+                "sha256": "bd6d7a666e485e1b9c7ed367c81296a416c716ef89b42703b5c126a422018d41",
+                "registered": 1294704184,
+                "dob": 66391168,
+                "phone": "999-552-897",
+                "cell": "643-638-866",
+                "DNI": "83525602-S",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "agustin",
+                    "last": "peña"
+                },
+                "location": {
+                    "street": "5569 calle de toledo",
+                    "city": "lorca",
+                    "state": "galicia",
+                    "zip": 85415
+                },
+                "email": "agustin.peña@example.com",
+                "username": "organickoala708",
+                "password": "jupiter1",
+                "salt": "o25mhwv5",
+                "md5": "7a8588a1e757297eddb9ea7978ceb1b6",
+                "sha1": "fbe0324f6f308b2f147850a8bfec06434dee86c1",
+                "sha256": "9c8c5ca6b3466742cbc3fe768bf32b6e52a8e72a3bc7a0bfcc41a0ee3cf39347",
+                "registered": 927056407,
+                "dob": 458354647,
+                "phone": "999-037-297",
+                "cell": "679-512-245",
+                "DNI": "97218105-P",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "yolanda",
+                    "last": "marin"
+                },
+                "location": {
+                    "street": "8475 calle de atocha",
+                    "city": "orense",
+                    "state": "castilla la mancha",
+                    "zip": 28224
+                },
+                "email": "yolanda.marin@example.com",
+                "username": "whitepanda649",
+                "password": "byebye",
+                "salt": "S4cJpJWE",
+                "md5": "c43ffd5abdd6d59f39f19865dd07f769",
+                "sha1": "c1e7d7c2ce11db01a6cd77b5c2c349b0ec7cffb3",
+                "sha256": "4f9bc9cd84b3993e9ef288bdd39e86ebfca137f7b6756b082b51a86f579212b9",
+                "registered": 1002332136,
+                "dob": 687065565,
+                "phone": "916-181-666",
+                "cell": "672-809-133",
+                "DNI": "03409287-Q",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/65.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "ms",
+                    "first": "carla",
+                    "last": "soler"
+                },
+                "location": {
+                    "street": "9488 calle de la almudena",
+                    "city": "oviedo",
+                    "state": "galicia",
+                    "zip": 48900
+                },
+                "email": "carla.soler@example.com",
+                "username": "smallbear529",
+                "password": "pride",
+                "salt": "lmTTDhjN",
+                "md5": "35020e5856551cd5647efa2a430b69fc",
+                "sha1": "641bf97882aa83b6fa9d8fc300447fb3f394c481",
+                "sha256": "d0aff8753a0aebafa924e5dd324996afc57c8f43bb9ad8a47fe8414be18a882a",
+                "registered": 1253619821,
+                "dob": 1333506930,
+                "phone": "953-800-952",
+                "cell": "626-816-625",
+                "DNI": "46703800-Z",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/44.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "cesar",
+                    "last": "ruiz"
+                },
+                "location": {
+                    "street": "5320 calle de ferraz",
+                    "city": "vigo",
+                    "state": "islas baleares",
+                    "zip": 49571
+                },
+                "email": "cesar.ruiz@example.com",
+                "username": "tinybear843",
+                "password": "deepthroat",
+                "salt": "WqsVsEcH",
+                "md5": "f438091ccb4bcdbb4851301d6608b94a",
+                "sha1": "8a2b29dd5b879d620fb45cfc9d8b98958ad43052",
+                "sha256": "b782850d34374e4bf43413284481cf61983b6b005d4b86b00d043fc4621641e4",
+                "registered": 1185760691,
+                "dob": 804202390,
+                "phone": "969-673-908",
+                "cell": "660-414-814",
+                "DNI": "77038897-L",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/82.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "lucia",
+                    "last": "muñoz"
+                },
+                "location": {
+                    "street": "7666 calle del pez",
+                    "city": "alcobendas",
+                    "state": "cantabria",
+                    "zip": 20966
+                },
+                "email": "lucia.muñoz@example.com",
+                "username": "heavytiger714",
+                "password": "bluejay",
+                "salt": "6Sfg0qk0",
+                "md5": "abe93faa9dc922ee6f8871da30eb287c",
+                "sha1": "c7f52d4f74c0bfde16b330b38ca5e66af5ea863b",
+                "sha256": "43c7a18a25997c1cf28212095a7460f65c467dc7f553ebf2a584eaa57d01615e",
+                "registered": 1281018322,
+                "dob": 496571461,
+                "phone": "912-315-818",
+                "cell": "617-624-290",
+                "DNI": "82951287-R",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "elisa",
+                    "last": "morales"
+                },
+                "location": {
+                    "street": "4908 avenida de andalucía",
+                    "city": "barcelona",
+                    "state": "castilla y león",
+                    "zip": 75631
+                },
+                "email": "elisa.morales@example.com",
+                "username": "silverbutterfly617",
+                "password": "banzai",
+                "salt": "vXwUiooz",
+                "md5": "e068788f9ade1b22a705b1c6ff267be5",
+                "sha1": "f6ca70927efda5a7c0b9ccb59d63918f81b36698",
+                "sha256": "8ad76017a76f501301bfc363d2ae6d9d6af3e2fcc1d65ff9d42244b91afaa3d5",
+                "registered": 1326182633,
+                "dob": 1118460160,
+                "phone": "962-022-636",
+                "cell": "618-555-091",
+                "DNI": "69962318-W",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "male",
+                "name": {
+                    "title": "mr",
+                    "first": "benito",
+                    "last": "perez"
+                },
+                "location": {
+                    "street": "9956 paseo de zorrilla",
+                    "city": "la palma",
+                    "state": "castilla y león",
+                    "zip": 85736
+                },
+                "email": "benito.perez@example.com",
+                "username": "beautifulwolf626",
+                "password": "nemrac58",
+                "salt": "nTUbjXwd",
+                "md5": "85222f81b7d493aab5f51b8be579f6d1",
+                "sha1": "8a1d3727475ca755299a5c208455f53a81a854fb",
+                "sha256": "f52a9612448a23bce02c095b86d2b76e0dc09b6df5eacc41f6da2146c1a8e660",
+                "registered": 920388398,
+                "dob": 929343532,
+                "phone": "932-351-421",
+                "cell": "693-725-019",
+                "DNI": "82345585-K",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+                }
+            }
+        },
+        {
+            "user": {
+                "gender": "female",
+                "name": {
+                    "title": "mrs",
+                    "first": "gema",
+                    "last": "pascual"
+                },
+                "location": {
+                    "street": "6509 avenida de salamanca",
+                    "city": "ferrol",
+                    "state": "castilla la mancha",
+                    "zip": 30770
+                },
+                "email": "gema.pascual@example.com",
+                "username": "blackfrog247",
+                "password": "bimmer",
+                "salt": "sNO7mJAb",
+                "md5": "7bc44369bfc7972ae227a7023ff2846d",
+                "sha1": "cb40a53a5a309b903896c1de2cd7a90acf9112f5",
+                "sha256": "bc4f082630f49e27505affdaa0f0dc84288065cc715094993aedcd34165f0f48",
+                "registered": 1170763956,
+                "dob": 964880684,
+                "phone": "978-523-589",
+                "cell": "600-784-549",
+                "DNI": "45522409-A",
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+                }
+            }
+        }
+    ],
+    "nationality": "ES",
+    "seed": "a48cc7996851186805",
+    "version": "0.8"
+}

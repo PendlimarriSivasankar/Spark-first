@@ -1,0 +1,12 @@
+{
+	"id": 2078,
+	"trainerName": "Raju",
+	"technology": "bigData",
+	"address": {
+		"user": {
+			"temporary": "Chennai",
+			"permanent": "Hyderabad"
+		}
+	},
+	"work_loc":"Banglore"
+}

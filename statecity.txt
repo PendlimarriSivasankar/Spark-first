@@ -1,0 +1,2 @@
+State->Telangana~City->Hyderabad
+State->Karnataka~City->Bangalore

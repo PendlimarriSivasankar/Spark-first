@@ -1,0 +1,500 @@
+1,beautifulbear,01743,68.688.326.58,13/Jun/2012:10:55:45 -0500,10,55,45,-0500,GET,/products,0,/product/product4,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Hewlett-Packard; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 8; InfoPath.2),100
+2,beautifulbear,75756,361.631.17.30,01/Nov/2011:10:53:01 -0500,10,53,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+3,beautifulbear,05901,11.308.46.48,21/Jun/2012:01:12:33 -0500,01,12,33,-0500,GET,/news,0,/partners/resell,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+4,beautifulbear,24538,361.631.17.30,01/Nov/2011:13:48:30 -0500,13,48,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+5,beautifulbear,08116,322.76.611.36,30/Jun/2012:07:19:30 -0500,07,19,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+6,beautifulbear,04675,361.631.17.30,01/Nov/2011:16:19:00 -0500,16,19,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+7,beautifulbear,06575,367.34.686.631,01/Jul/2012:00:02:00 -0500,00,02,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+8,beautifulbear,27382,88.633.11.47,04/Nov/2011:13:00:30 -0500,13,00,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+9,beautifulbear,09934,11.308.46.48,01/Jul/2012:23:13:53 -0500,23,13,53,-0500,GET,/partners,0,/product/product2,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+10,beautifulbear,01716,683.615.622.618,05/Nov/2011:22:03:01 -0500,22,03,01,-0500,GET,/partners/resell,0,/partners/resell,null,100
+11,beautifulbear,55195,682.62.387.672,02/Jul/2012:10:17:48 -0500,10,17,48,-0500,GET,/download/download4.zip,0,/download/download4.zip,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+12,beautifulbear,69809,43.68.686.668,09/Nov/2011:05:25:00 -0500,05,25,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.11,100
+13,beautifulbear,78800,321.336.372.320,06/Jul/2012:01:41:00 -0500,01,41,00,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+14,beautifulbear,58994,361.631.17.30,16/Nov/2011:00:50:00 -0500,00,50,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+15,beautifulbear,94543,361.638.668.62,13/Jul/2012:23:44:30 -0500,23,44,30,-0500,GET,/ad/save,0,-,Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html),100
+16,beautifulbear,33695,325.87.75.36,16/Nov/2011:04:58:30 -0500,04,58,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+17,beautifulbear,01755,18.332.18.672,16/Jul/2012:03:20:30 -0500,03,20,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+18,beautifulbear,01784,361.321.73.6,17/Nov/2011:13:08:30 -0500,13,08,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+19,beautifulbear,09671,364.63.61.83,23/Jul/2012:17:00:37 -0500,17,00,37,-0500,GET,/product/product3,0,/docs/doc5.pdf,Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.9.0.19) Gecko/2010040116 Ubuntu/9.04 (jaunty) Firefox/3.0.19,100
+20,beautifulbear,04288,13.53.52.13,26/Nov/2011:19:16:00 -0500,19,16,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+21,beautifulbear,04010,53.667.16.82,24/Jul/2012:12:11:08 -0500,12,11,08,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+22,beautifulbear,09848,630.630.85.08,26/Nov/2011:23:02:30 -0500,23,02,30,-0500,GET,/demo,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9,100
+23,beautifulbear,61708,361.631.17.30,25/Jul/2012:21:05:59 -0500,21,05,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+24,beautifulbear,02068,608.661.634.371,28/Nov/2011:15:11:16 -0500,15,11,16,-0500,GET,/download,0,/download/download4.zip,Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+25,beautifulbear,65616,52.303.00.620,29/Jul/2012:00:57:13 -0500,00,57,13,-0500,GET,/product/product3,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729) FirePHP/0.4,100
+26,beautifulbear,81286,14.688.663.667,06/Dec/2011:05:57:02 -0500,05,57,02,-0500,GET,/home,0,/home,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+27,beautifulbear,95833,322.667.631.364,31/Jul/2012:19:56:48 -0500,19,56,48,-0500,GET,/docs/doc3.pdf,0,/buy,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9 FBSMTWB,100
+28,beautifulbear,26015,323.88.612.611,19/Dec/2011:11:15:34 -0500,11,15,34,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.3) Gecko/2008101315 Ubuntu/8.10 (intrepid) Firefox/3.0.3,100
+29,beautifulbear,01702,675.682.73.4,31/Jul/2012:23:08:00 -0500,23,08,00,-0500,GET,/product/product6,0,/product/product3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Tablet PC 1.7; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; MS-RTC S; MS-RTC LM 8),100
+30,beautifulbear,55 16,48.673.673.682,21/Dec/2011:08:07:35 -0500,08,07,35,-0500,GET,/download,0,/download,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+31,beautifulbear,04223,363.71.11.66,02/Aug/2012:18:44:04 -0500,18,44,04,-0500,GET,/product/product3,0,/product/product3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB0.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; InfoPath.2; .NET CLR 3.0.30729),100
+32,beautifulbear,07322,57.58.382.380,25/Dec/2011:14:20:12 -0500,14,20,12,-0500,GET,/product/product3,0,/product/product3,Mozilla/5.0 (Windows; U; Windows NT 5.1; nl; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB6 ( .NET CLR 3.5.30729),100
+33,beautifulbear,06704,13.68.616.73,02/Aug/2012:19:41:42 -0500,19,41,42,-0500,GET,/product/product2,0,/product/product2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; eSobiSubscriber 2.0.4.16),100
+34,beautifulbear,07184,668.303.307.330,26/Dec/2011:13:34:34 -0500,13,34,34,-0500,GET,/buy,0,/contact,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; InfoPath.2; .NET CLR 3.0.30729),100
+35,beautifulbear,01790,361.631.17.30,03/Aug/2012:15:49:30 -0500,15,49,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+36,beautifulbear,01728,54.361.65.361,27/Dec/2011:16:49:42 -0500,16,49,42,-0500,GET,/docs/doc2.pdf,0,/docs/doc2.pdf,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+37,beautifulbear,04753,48.663.670.672,04/Aug/2012:09:26:00 -0500,09,26,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+38,beautifulbear,04168,53.638.66.1,27/Dec/2011:20:10:45 -0500,20,10,45,-0500,GET,/download,0,/download/download4.zip,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.1),100
+39,beautifulbear,04971,603.644.38.52,09/Aug/2012:10:01:08 -0500,10,01,08,-0500,GET,/docs/doc8.pdf,0,/services/training,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9 (.NET CLR 3.5.30729),100
+40,beautifulbear,07936,58.628.624.53,28/Dec/2011:15:37:03 -0500,15,37,03,-0500,GET,/products/demos,0,/products/demos,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Tablet PC 2.0),100
+41,beautifulbear,44812,361.631.17.30,10/Aug/2012:14:53:00 -0500,14,53,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+42,beautifulbear,07325,364.77.31.622,30/Dec/2011:04:24:07 -0500,04,24,07,-0500,GET,/docs/doc2.pdf,0,/product/product4,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+43,beautifulbear,63537,327.08.12.682,13/Aug/2012:09:35:29 -0500,09,35,29,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+44,beautifulbear,63804,13.07.683.71,31/Dec/2011:09:38:15 -0500,09,38,15,-0500,GET,/product/product4,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 6.0; es-ES; rv:1.9.0.12) Gecko/2009070611 Firefox/3.0.12 (.NET CLR 3.5.30729),100
+45,beautifulbear,80589,683.88.60.71,16/Aug/2012:01:30:43 -0500,01,30,43,-0500,GET,/download/download6.zip,0,/download,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 1.1.4322; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2),100
+46,beautifulbear,01761,680.621.332.68,01/Jan/2012:10:11:00 -0500,10,11,00,-0500,GET,/product/product4,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+47,beautifulbear,01713,683.615.622.618,20/Aug/2012:19:04:06 -0500,19,04,06,-0500,GET,/partners/resell,0,/partners/resell,null,100
+48,beautifulbear,20 87,58.81.304.83,01/Jan/2012:20:45:01 -0500,20,45,01,-0500,GET,/download,0,/download,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+49,beautifulbear,09626,16.614.75.681,21/Aug/2012:21:26:34 -0500,21,26,34,-0500,GET,/download/download1.zip,0,/download/download1.zip,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),100
+50,beautifulbear,55477,361.631.17.30,02/Jan/2012:12:12:30 -0500,12,12,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+51,beautifulbear,66801,53.604.70.301,25/Aug/2012:01:31:20 -0500,01,31,20,-0500,GET,/product/product3,0,/product/product3,Mozilla/5.0 (Windows; U; Windows NT 5.1; nb-NO; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+52,beautifulbear,73880,683.68.58.645,02/Jan/2012:18:21:00 -0500,18,21,00,-0500,GET,/product/product10,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+53,beautifulbear,06645,48.663.670.672,05/Sep/2012:13:06:30 -0500,13,06,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+54,beautifulbear,73086,688.18.648.70,03/Jan/2012:04:11:00 -0500,04,11,00,-0500,GET,/home,0,-,Jakarta Commons-HttpClient/3.0.1,100
+55,beautifulbear,10797,361.631.17.30,05/Sep/2012:20:35:00 -0500,20,35,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+56,beautifulbear,01738,43.60.688.623,03/Jan/2012:06:46:00 -0500,06,46,00,-0500,GET,/feeds/press,0,-,Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 31 subscribers; feed-id=4404395209182797140),100
+57,beautifulbear,85716,54.18.643.56,06/Sep/2012:07:31:05 -0500,07,31,05,-0500,GET,/product/product1,0,/products/demos,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; MS-RTC LM 8; .NET CLR 3.0.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; InfoPath.3),100
+58,beautifulbear,04042,673.335.688.324,03/Jan/2012:08:15:51 -0500,08,15,51,-0500,GET,/docs/doc2.pdf,0,/download/download1.zip,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 8),100
+59,beautifulbear,04537,361.631.17.30,06/Sep/2012:09:41:28 -0500,09,41,28,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+60,beautifulbear,06026,322.2.665.12,03/Jan/2012:20:30:26 -0500,20,30,26,-0500,GET,/docs/doc6.pdf,0,/product/product2,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1),100
+61,beautifulbear,06806,361.631.17.30,12/Sep/2012:02:42:01 -0500,02,42,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+62,beautifulbear,01773,361.640.633.03,03/Jan/2012:20:48:31 -0500,20,48,31,-0500,GET,/download,0,/download,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.9) Gecko/20100401 Ubuntu/9.10 (karmic) Firefox/3.5.9,100
+63,beautifulbear,82118,361.631.17.30,16/Sep/2012:19:13:00 -0500,19,13,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+64,beautifulbear,24819,322.616.672.682,04/Jan/2012:06:06:30 -0500,06,06,30,-0500,GET,/product/product2,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; AskTB5.6),100
+65,beautifulbear,08118,361.631.17.30,21/Sep/2012:12:00:01 -0500,12,00,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+66,beautifulbear,64360,48.678.673.638,04/Jan/2012:16:10:45 -0500,16,10,45,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; MS-RTC LM 8),100
+67,beautifulbear,60503,53.46.68.630,25/Sep/2012:06:54:22 -0500,06,54,22,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30),100
+68,beautifulbear,06636,322.6.648.325,06/Jan/2012:18:00:13 -0500,18,00,13,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+69,beautifulbear,16784,55.617.6.683,26/Sep/2012:19:30:30 -0500,19,30,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+70,beautifulbear,70306,617.304.13.635,07/Jan/2012:04:00:34 -0500,04,00,34,-0500,GET,/product/product6,0,/product/product2,Mozilla/5.0 (Windows; U; Windows NT 6.1; es-CL; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+71,beautifulbear,01739,40.682.674.12,28/Sep/2012:22:57:01 -0500,22,57,01,-0500,GET,/product/product3,0,/product/product3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MDDR),100
+72,beautifulbear,09211,14.382.70.327,07/Jan/2012:08:45:43 -0500,08,45,43,-0500,GET,/about/customers,0,/about/customers,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9,100
+73,beautifulbear,09350,361.631.17.30,27/Oct/2011:08:31:27 -0500,08,31,27,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+74,beautifulbear,04651,322.6.648.325,07/Jan/2012:11:35:22 -0500,11,35,22,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+75,beautifulbear,04369,681.63.361.675,01/Nov/2011:00:42:30 -0500,00,42,30,-0500,GET,/products/demos,0,/products/demos,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3),100
+76,beautifulbear,07375,10.46.36.375,07/Jan/2012:12:20:41 -0500,12,20,41,-0500,GET,/news,0,/news,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+77,beautifulbear,87996,45.651.60.16,01/Nov/2011:19:41:48 -0500,19,41,48,-0500,GET,/download/download4.zip,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 6.1; tr; rv:1.9.2.3) Gecko/20100401 AskTbGOM2/3.7.0.231 Firefox/3.6.3,100
+78,beautifulbear,67 10,658.383.0.621,07/Jan/2012:20:15:11 -0500,20,15,11,-0500,GET,/products,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 ( .NET CLR 3.5.30729),100
+79,beautifulbear,09604,682.323.58.613,02/Nov/2011:19:38:04 -0500,19,38,04,-0500,GET,/download,0,/product/product2,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0,100
+80,beautifulbear,09300,11.682.55.334,09/Jan/2012:02:04:06 -0500,02,04,06,-0500,GET,/services/training,0,/services/training,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),100
+81,beautifulbear,09856,367.84.337.612,03/Nov/2011:16:44:00 -0500,16,44,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+82,beautifulbear,28435,364.42.320.11,10/Jan/2012:02:22:31 -0500,02,22,31,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+83,beautifulbear,08152,52.53.3.70,03/Nov/2011:21:04:00 -0500,21,04,00,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (compatible; Google Desktop/5.9.911.3589; http://desktop.google.com/),100
+84,beautifulbear,08198,75.622.36.380,10/Jan/2012:09:27:30 -0500,09,27,30,-0500,GET,/products,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 GTB5,100
+85,beautifulbear,76785,367.84.337.612,04/Nov/2011:15:19:00 -0500,15,19,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+86,beautifulbear,78016,14.368.687.72,10/Jan/2012:11:46:00 -0500,11,46,00,-0500,GET,/product/product3,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+87,beautifulbear,01220,11.601.378.61,08/Nov/2011:11:20:02 -0500,11,20,02,-0500,GET,/product/product10,0,/product/product10,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20 (.NET CLR 3.5.30729),100
+88,beautifulbear,06041,48.685.48.68,10/Jan/2012:18:50:26 -0500,18,50,26,-0500,GET,/ad/save,0,/ad/save,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401  Firefox888803903  79680603  [xSP_2:d91dd59a58586b4067e8af7b666163d7_249]  (.NET CLR 3.5.30729),100
+89,beautifulbear,98 93,663.323.683.324,10/Nov/2011:17:28:01 -0500,17,28,01,-0500,GET,/download/download1.zip,0,/docs/doc6.pdf,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+90,beautifulbear,04973,88.16.53.60,12/Jan/2012:13:03:53 -0500,13,03,53,-0500,GET,/download,0,/download,Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+91,beautifulbear,64182,361.631.17.30,15/Nov/2011:00:24:29 -0500,00,24,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+92,beautifulbear,92760,324.683.48.31,16/Jan/2012:03:14:03 -0500,03,14,03,-0500,GET,/product/product3,0,/product/product3,Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.6) Gecko/20091216 Iceweasel/3.5.6 (like Firefox/3.5.6; Debian-3.5.6-1),100
+93,beautifulbear,01757,361.631.17.30,24/Nov/2011:21:09:31 -0500,21,09,31,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+94,beautifulbear,24965,18.42.368.680,20/Jan/2012:10:30:00 -0500,10,30,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+95,beautifulbear,50 47,661.334.68.81,27/Nov/2011:07:02:08 -0500,07,02,08,-0500,GET,/download/download4.zip,0,/download/download4.zip,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler 4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; CIBA; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MAXTHON 2.0),100
+96,beautifulbear,08189,48.02.81.00,23/Jan/2012:15:58:00 -0500,15,58,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+97,beautifulbear,08137,13.640.53.680,28/Nov/2011:16:27:30 -0500,16,27,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+98,beautifulbear,26219,361.631.17.30,25/Jan/2012:06:41:00 -0500,06,41,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+99,beautifulbear,04428,52.84.0.70,30/Nov/2011:11:23:31 -0500,11,23,31,-0500,GET,/product/product1,0,/product/product1,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.19) Gecko/2010040116 Ubuntu/9.04 (jaunty) Firefox/3.0.19,100
+100,beautifulbear,60905,630.631.68.88,26/Jan/2012:16:07:30 -0500,16,07,30,-0500,GET,/product/product6,0,-,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; CIBA; Maxthon 2.0),100
+101,beautifulbear,35451,640.638.64.658,04/Dec/2011:09:02:00 -0500,09,02,00,-0500,GET,/feeds/press,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),100
+102,beautifulbear,21094,83.42.323.644,30/Jan/2012:20:31:34 -0500,20,31,34,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152,100
+103,beautifulbear,01723,361.631.17.30,09/Dec/2011:05:20:02 -0500,05,20,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+104,beautifulbear,09582,326.33.51.612,31/Jan/2012:16:28:30 -0500,16,28,30,-0500,GET,/download,0,-,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+105,beautifulbear,04805,363.652.18.65,09/Dec/2011:21:32:39 -0500,21,32,39,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+106,beautifulbear,07991,361.631.17.30,01/Feb/2012:05:37:00 -0500,05,37,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+107,beautifulbear,06140,363.652.18.65,17/Dec/2011:15:44:45 -0500,15,44,45,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+108,beautifulbear,09165,322.4.680.31,02/Feb/2012:03:11:07 -0500,03,11,07,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB7.1,100
+109,beautifulbear,04456,14.323.74.653,23/Dec/2011:04:23:29 -0500,04,23,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+110,beautifulbear,07401,53.667.16.82,06/Feb/2012:02:11:07 -0500,02,11,07,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+111,beautifulbear,07345,327.364.641.38,25/Dec/2011:14:44:00 -0500,14,44,00,-0500,GET,/product/product4,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),100
+112,beautifulbear,15917,637.671.626.322,06/Feb/2012:08:37:24 -0500,08,37,24,-0500,GET,/partners,0,/partners,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+113,beautifulbear,04628,361.631.17.30,27/Dec/2011:13:47:01 -0500,13,47,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+114,beautifulbear,69166,11.308.46.48,08/Feb/2012:17:15:30 -0500,17,15,30,-0500,GET,/events/event4,0,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+115,beautifulbear,61153,363.652.18.65,29/Dec/2011:19:09:47 -0500,19,09,47,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+116,beautifulbear,66234,14.688.668.57,20/Feb/2012:11:47:48 -0500,11,47,48,-0500,GET,/product/product6,0,/download,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+117,beautifulbear,55969,15.54.03.662,31/Dec/2011:23:23:58 -0500,23,23,58,-0500,GET,/product/product2,0,/ad/save,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; GTB6.4; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.21022; .NET CLR 3.5.30729; .NET CLR 3.0.30618; MDDR; InfoPath.2),100
+118,beautifulbear,08132,13.53.52.13,21/Feb/2012:21:05:00 -0500,21,05,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+119,beautifulbear,08105,43.383.660.302,01/Jan/2012:10:44:00 -0500,10,44,00,-0500,GET,/product/product4,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+120,beautifulbear,54962,680.18.675.632,24/Feb/2012:11:56:18 -0500,11,56,18,-0500,GET,/search,0,/search,Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-PT; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+121,beautifulbear,17066,40.675.85.17,01/Jan/2012:12:30:42 -0500,12,30,42,-0500,GET,/download/download1.zip,0,/docs/doc2.pdf,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+122,beautifulbear,62915,323.648.626.70,25/Feb/2012:20:17:54 -0500,20,17,54,-0500,GET,/product/product1,0,/product/product1,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+123,beautifulbear,04200,322.14.675.374,02/Jan/2012:18:06:42 -0500,18,06,42,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 6.1; es-MX; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 Glue/4.5,100
+124,beautifulbear,06978,14.323.74.653,28/Feb/2012:09:01:00 -0500,09,01,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+125,beautifulbear,08575,680.327.368.380,02/Jan/2012:20:57:18 -0500,20,57,18,-0500,GET,/products/demos,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1; MS-RTC LM 8),100
+126,beautifulbear,08105,52.53.3.70,04/Mar/2012:05:56:30 -0500,05,56,30,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (compatible; Google Desktop/5.9.911.3589; http://desktop.google.com/),100
+127,beautifulbear,04454,361.30.603.08,04/Jan/2012:00:24:00 -0500,00,24,00,-0500,GET,/analyst_perspective,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 OneRiot/1.0 (http://www.oneriot.com),100
+128,beautifulbear,07035,14.323.74.653,05/Mar/2012:10:43:00 -0500,10,43,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+129,beautifulbear,09751,680.45.70.11,04/Jan/2012:02:34:07 -0500,02,34,07,-0500,GET,/home,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+130,beautifulbear,06459,363.652.18.65,07/Mar/2012:23:09:30 -0500,23,09,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+131,beautifulbear,01780,361.631.17.30,05/Jan/2012:06:05:59 -0500,06,05,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+132,beautifulbear,01749,322.88.325.53,10/Mar/2012:08:36:51 -0500,08,36,51,-0500,GET,/services/training,0,/product/product3,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 (.NET CLR 3.5.30729) FirePHP/0.3,100
+133,beautifulbear,01774,322.6.648.325,05/Jan/2012:16:38:48 -0500,16,38,48,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+134,beautifulbear,66916,14.688.668.57,18/Mar/2012:23:23:00 -0500,23,23,00,-0500,GET,/news/releases/september,0,-,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+135,beautifulbear,07694,53.306.368.368,06/Jan/2012:02:03:30 -0500,02,03,30,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.0.19) Gecko/2010031422 Turbosinge/3.0.19 (Firefox/3.0.19 rebaptis\xc3\xa9) GTB7.0 ( .NET CLR 3.5.30729) FirePHP/0.4,100
+136,beautifulbear,21668,325.87.75.336,27/Mar/2012:07:50:30 -0500,07,50,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+137,beautifulbear,08181,682.8.688.71,06/Jan/2012:23:39:30 -0500,23,39,30,-0500,GET,/home,0,-,Jakarta Commons-HttpClient/3.0.1,100
+138,beautifulbear,04186,361.631.17.30,28/Mar/2012:18:04:02 -0500,18,04,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+139,beautifulbear,07075,322.6.648.325,07/Jan/2012:04:04:20 -0500,04,04,20,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+140,beautifulbear,07664,361.631.17.30,01/Apr/2012:05:34:30 -0500,05,34,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+141,beautifulbear,04615,322.6.648.325,08/Jan/2012:22:50:30 -0500,22,50,30,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+142,beautifulbear,07587,325.87.75.36,07/Apr/2012:16:23:30 -0500,16,23,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+143,beautifulbear,87524,603.308.687.66,09/Jan/2012:10:44:58 -0500,10,44,58,-0500,GET,/download,0,/offers,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 GTB7.0 (.NET CLR 3.5.30729),100
+144,beautifulbear,25 58,361.631.17.30,07/Apr/2012:22:30:31 -0500,22,30,31,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+145,beautifulbear,04058,322.78.614.644,09/Jan/2012:23:01:49 -0500,23,01,49,-0500,GET,/download/download3.zip,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+146,beautifulbear,09078,325.87.75.36,15/Apr/2012:19:23:30 -0500,19,23,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+147,beautifulbear,14478,75.81.672.80,11/Jan/2012:15:22:25 -0500,15,22,25,-0500,GET,/products,0,/download,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322),100
+148,beautifulbear,67481,13.640.53.680,16/Apr/2012:16:01:59 -0500,16,01,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+149,beautifulbear,92727,11.06.626.677,13/Jan/2012:04:30:08 -0500,04,30,08,-0500,GET,/docs/doc1.pdf,0,/download/download3.zip,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) Gecko/20100403 Firefox/3.6.3 (Palemoon/3.6.3),100
+150,beautifulbear,04169,361.631.17.30,17/Apr/2012:09:33:01 -0500,09,33,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+151,beautifulbear,88932,361.631.17.30,19/Jan/2012:09:15:32 -0500,09,15,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+152,beautifulbear,29580,14.323.74.653,21/Apr/2012:10:21:00 -0500,10,21,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+153,beautifulbear,71373,683.615.622.618,22/Jan/2012:20:19:31 -0500,20,19,31,-0500,GET,/partners/resell,0,/partners/resell,null,100
+154,beautifulbear,31323,363.652.18.65,26/Apr/2012:18:59:30 -0500,18,59,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+155,beautifulbear,83053,16.683.668.3,23/Jan/2012:21:47:09 -0500,21,47,09,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022),100
+156,beautifulbear,04986,686.327.87.66,27/Apr/2012:21:28:00 -0500,21,28,00,-0500,GET,/news,0,-,PRurl,100
+157,beautifulbear,04743,367.84.337.612,25/Jan/2012:13:29:30 -0500,13,29,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+158,beautifulbear,63254,361.631.17.30,30/Apr/2012:13:30:02 -0500,13,30,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+159,beautifulbear,08165,361.631.17.30,26/Jan/2012:23:59:34 -0500,23,59,34,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+160,beautifulbear,04244,367.34.686.631,30/Apr/2012:17:58:00 -0500,17,58,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+161,beautifulbear,08138,661.7.1.325,29/Jan/2012:04:00:15 -0500,04,00,15,-0500,GET,/product/demos/product2,0,/product/demos/product2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; CIBA),100
+162,beautifulbear,04724,361.631.17.30,30/Apr/2012:21:30:30 -0500,21,30,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+163,beautifulbear,70187,361.631.17.30,31/Jan/2012:04:05:30 -0500,04,05,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+164,beautifulbear,07631,58.372.30.85,07/May/2012:13:50:00 -0500,13,50,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+165,beautifulbear,06502,680.645.84.32,31/Jan/2012:09:06:23 -0500,09,06,23,-0500,GET,/offers,0,/buy,Mozilla/5.0 (Windows; U; Windows NT 5.0; nl; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+166,beautifulbear,74647,668.667.57.48,24/May/2012:23:45:00 -0500,23,45,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+167,beautifulbear,62091,633.657.368.667,01/Feb/2012:12:08:44 -0500,12,08,44,-0500,GET,/product/product1,0,/product/product1,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+168,beautifulbear,01764,58.84.630.61,24/May/2012:23:46:10 -0500,23,46,10,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+169,beautifulbear,04754,682.36.602.58,01/Feb/2012:20:27:00 -0500,20,27,00,-0500,GET,/download,0,-,Mozilla/5.0 (X11; U; Linux i686; es-MX; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+170,beautifulbear,08143,14.323.74.653,25/May/2012:11:09:30 -0500,11,09,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+171,beautifulbear,07171,615.611.41.3,04/Feb/2012:21:45:51 -0500,21,45,51,-0500,GET,/product/product6,0,/product/product2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+172,beautifulbear,07639,14.323.74.653,03/Jun/2012:12:49:00 -0500,12,49,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+173,beautifulbear,06396,683.80.600.338,05/Feb/2012:15:29:39 -0500,15,29,39,-0500,GET,/download/download7.zip,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.0.1) Gecko/20060111 (CK-Thales) Firefox/1.5.0.1,100
+174,beautifulbear,06537,15.621.688.78,04/Jun/2012:08:29:20 -0500,08,29,20,-0500,GET,/news,0,/news,Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.9.2.3) Gecko/20100401 SUSE/3.6.3-1.2 Firefox/3.6.3,100
+175,beautifulbear,59573,661.638.606.63,07/Feb/2012:20:40:30 -0500,20,40,30,-0500,GET,/product/product6,0,-,Mozilla/5.0 (compatible; Firefox compatible; MS IE compatible; not on Windows server; +http://cs.daum.net/faq/site/15.html) Daumoa-feedfetcher/2.0,100
+176,beautifulbear,92589,80.37.367.658,05/Jun/2012:04:28:30 -0500,04,28,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+177,beautifulbear,06015,361.631.17.30,09/Feb/2012:05:06:00 -0500,05,06,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+178,beautifulbear,74 53,46.686.305.370,08/Jun/2012:23:44:51 -0500,23,44,51,-0500,GET,/buy,0,/buy,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322),100
+179,beautifulbear,08162,664.684.601.686,15/Feb/2012:14:04:52 -0500,14,04,52,-0500,GET,/product/product4,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19,100
+180,beautifulbear,65878,46.686.305.370,09/Jun/2012:02:24:32 -0500,02,24,32,-0500,GET,/about,0,/product/product2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322),100
+181,beautifulbear,06085,13.615.88.680,22/Feb/2012:14:22:24 -0500,14,22,24,-0500,GET,/products/demos,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+182,beautifulbear,06069,683.655.84.68,12/Jun/2012:16:32:48 -0500,16,32,48,-0500,GET,/download,0,/download,Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+183,beautifulbear,06880,323.688.326.688,23/Feb/2012:19:43:49 -0500,19,43,49,-0500,GET,/offers,0,/products/demos,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+184,beautifulbear,77296,325.87.75.36,14/Jun/2012:14:23:30 -0500,14,23,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+185,beautifulbear,50196,364.64.38.82,28/Feb/2012:13:56:00 -0500,13,56,00,-0500,GET,/home,0,-,Jakarta Commons-HttpClient/3.0.1,100
+186,beautifulbear,06518,41.631.382.601,19/Jun/2012:09:02:00 -0500,09,02,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+187,beautifulbear,01746,654.88.632.84,01/Mar/2012:02:42:30 -0500,02,42,30,-0500,GET,/product/product1,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2),100
+188,beautifulbear,48 17,44.30.6.613,20/Jun/2012:14:18:00 -0500,14,18,00,-0500,GET,/download/download4.zip,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+189,beautifulbear,08141,324.387.382.372,02/Mar/2012:17:59:32 -0500,17,59,32,-0500,GET,/download/download1.zip,0,/docs/doc2.pdf,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; DWE40; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+190,beautifulbear,08175,06.330.367.05,22/Jun/2012:07:03:18 -0500,07,03,18,-0500,GET,/product/product6,0,/news/releases/june,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9,100
+191,beautifulbear,04754,325.00.642.3,04/Mar/2012:02:06:30 -0500,02,06,30,-0500,GET,/product/product2,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+192,beautifulbear,55820,361.631.17.30,23/Jun/2012:15:30:00 -0500,15,30,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+193,beautifulbear,45701,58.88.608.368,04/Mar/2012:13:14:58 -0500,13,14,58,-0500,GET,/products/demos,0,/product/product4,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.4; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618),100
+194,beautifulbear,97 24,58.300.601.613,26/Jun/2012:09:28:37 -0500,09,28,37,-0500,GET,/buy,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+195,beautifulbear,04969,361.631.17.30,06/Mar/2012:04:05:30 -0500,04,05,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+196,beautifulbear,04863,361.631.17.30,27/Jun/2012:17:36:30 -0500,17,36,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+197,beautifulbear,04982,654.18.325.38,06/Mar/2012:11:17:05 -0500,11,17,05,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727),100
+198,beautifulbear,66454,363.56.43.70,01/Jul/2012:03:50:08 -0500,03,50,08,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 999.1; Unknown),100
+199,beautifulbear,66949,647.14.4.383,08/Mar/2012:19:24:35 -0500,19,24,35,-0500,GET,/about/customers,0,/about/customers,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.30618; .NET CLR 3.5.30729; InfoPath.2),100
+200,beautifulbear,90157,605.52.380.3,04/Jul/2012:21:01:44 -0500,21,01,44,-0500,GET,/product/demos/product2,0,/product/demos/product2,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; MS-RTC LM 8),100
+201,beautifulbear,06348,664.88.306.7,09/Mar/2012:23:05:45 -0500,23,05,45,-0500,GET,/products/demos,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+202,beautifulbear,04968,88.02.382.688,06/Jul/2012:06:51:59 -0500,06,51,59,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 1.1.4322; .NET CLR 3.5.21022; MS-RTC LM 8; .NET CLR 3.5.30729; .NET CLR 3.0.30618),100
+203,beautifulbear,56 07,82.684.602.30,12/Mar/2012:04:25:56 -0500,04,25,56,-0500,GET,/product/product2,0,/download,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+204,beautifulbear,09704,11.678.05.320,12/Jul/2012:16:11:31 -0500,16,11,31,-0500,GET,/license,0,/license,WordPress/MU; http://churriwifi.wordpress.com,100
+205,beautifulbear,09295,325.87.75.336,27/Mar/2012:02:45:30 -0500,02,45,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+206,beautifulbear,69508,43.308.40.8,13/Jul/2012:14:01:30 -0500,14,01,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+207,beautifulbear,44356,361.631.17.30,27/Mar/2012:13:02:30 -0500,13,02,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+208,beautifulbear,06914,325.87.75.336,18/Jul/2012:07:40:30 -0500,07,40,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+209,beautifulbear,01762,361.631.17.30,04/Apr/2012:13:28:01 -0500,13,28,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+210,beautifulbear,08115,43.60.688.623,19/Jul/2012:07:18:54 -0500,07,18,54,-0500,GET,/feeds/press,0,/feeds/press,Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 5 subscribers; feed-id=16989878682298606134),100
+211,beautifulbear,04221,324.01.67.54,04/Apr/2012:20:46:00 -0500,20,46,00,-0500,GET,/partners,0,-,msnbot/2.0b (+http://search.msn.com/msnbot.htm),100
+212,beautifulbear,04421,683.615.622.618,20/Jul/2012:13:18:30 -0500,13,18,30,-0500,GET,/partners/resell,0,/partners/resell,null,100
+213,beautifulbear,06925,361.631.17.30,06/Apr/2012:16:04:00 -0500,16,04,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+214,beautifulbear,08178,600.71.606.42,21/Jul/2012:00:47:00 -0500,00,47,00,-0500,GET,/search,0,-,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1),100
+215,beautifulbear,64514,14.688.668.57,08/Apr/2012:16:50:49 -0500,16,50,49,-0500,GET,/news/releases/june,0,/offers,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+216,beautifulbear,48432,363.652.18.65,23/Jul/2012:01:41:04 -0500,01,41,04,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+217,beautifulbear,06352,14.323.74.653,09/Apr/2012:11:16:29 -0500,11,16,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+218,beautifulbear,06728,327.41.603.645,25/Jul/2012:05:05:00 -0500,05,05,00,-0500,GET,/product/product1,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; SU 3.22; GTB0.0; .NET CLR 2.0.50727),100
+219,beautifulbear,82123,324.01.688.78,10/Apr/2012:22:17:00 -0500,22,17,00,-0500,GET,/news,0,-,msnbot/2.0b (+http://search.msn.com/msnbot.htm),100
+220,beautifulbear,04 98,10.673.305.70,31/Jul/2012:05:49:56 -0500,05,49,56,-0500,GET,/products,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9,100
+221,beautifulbear,04593,325.87.75.36,11/Apr/2012:05:28:30 -0500,05,28,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+222,beautifulbear,04568,54.4.78.04,31/Jul/2012:11:46:32 -0500,11,46,32,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+223,beautifulbear,07250,13.07.680.610,21/Apr/2012:20:27:56 -0500,20,27,56,-0500,GET,/sitemap,0,/sitemap,Mozilla/5.0,100
+224,beautifulbear,67781,43.87.368.88,31/Jul/2012:12:16:37 -0500,12,16,37,-0500,GET,/product/product3,0,/product/product3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MDDR),100
+225,beautifulbear,60180,361.631.17.30,26/Apr/2012:02:50:32 -0500,02,50,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+226,beautifulbear,07297,14.323.74.653,07/Aug/2012:12:20:30 -0500,12,20,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+227,beautifulbear,75053,361.631.17.30,05/May/2012:17:32:31 -0500,17,32,31,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+228,beautifulbear,67377,683.615.622.618,08/Aug/2012:07:19:31 -0500,07,19,31,-0500,GET,/partners/resell,0,/partners/resell,null,100
+229,beautifulbear,60202,324.01.67.00,05/May/2012:23:02:00 -0500,23,02,00,-0500,GET,/news,0,-,msnbot/2.0b (+http://search.msn.com/msnbot.htm),100
+230,beautifulbear,06071,614.368.55.602,08/Aug/2012:23:21:20 -0500,23,21,20,-0500,GET,/buy,0,/buy,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; MS-RTC LM 8; SLCC1; .NET CLR 3.0.04506; MS-RTC S; Tablet PC 2.0; US,100
+231,beautifulbear,78791,628.80.82.604,10/May/2012:17:07:56 -0500,17,07,56,-0500,GET,/home,0,/home,Jakarta Commons-HttpClient/3.0.1,100
+232,beautifulbear,08132,32.674.65.83,02/Sep/2012:10:30:11 -0500,10,30,11,-0500,GET,/product/product3,0,/product/product3,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+233,beautifulbear,09572,361.631.17.30,17/May/2012:20:10:30 -0500,20,10,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+234,beautifulbear,08199,682.600.684.687,04/Sep/2012:10:05:05 -0500,10,05,05,-0500,GET,/products,0,/product/product2,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+235,beautifulbear,04971,324.01.320.653,18/May/2012:07:46:00 -0500,07,46,00,-0500,GET,/about/customers,0,-,msnbot/2.0b (+http://search.msn.com/msnbot.htm),100
+236,beautifulbear,09208,325.87.75.36,05/Sep/2012:07:03:30 -0500,07,03,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+237,beautifulbear,90448,324.14.664.643,23/May/2012:01:30:42 -0500,01,30,42,-0500,GET,/services/consulting,0,/docs/doc8.pdf,larbin_2.6.3 larbin2.6.3@unspecified.mail,100
+238,beautifulbear,08344,57.37.627.673,06/Sep/2012:20:48:05 -0500,20,48,05,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; pl; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+239,beautifulbear,06138,361.631.17.30,23/May/2012:19:40:02 -0500,19,40,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+240,beautifulbear,09597,43.685.87.330,08/Sep/2012:16:55:57 -0500,16,55,57,-0500,GET,/download/download1.zip,0,/docs/doc3.pdf,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 8),100
+241,beautifulbear,53965,367.360.624.1,28/May/2012:16:53:15 -0500,16,53,15,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+242,beautifulbear,01789,14.88.60.83,15/Sep/2012:01:52:49 -0500,01,52,49,-0500,GET,/offers,0,/product/product4,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+243,beautifulbear,09919,682.635.672.660,31/May/2012:10:45:00 -0500,10,45,00,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.1; es-AR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+244,beautifulbear,04337,361.631.17.30,17/Sep/2012:16:17:28 -0500,16,17,28,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+245,beautifulbear,06346,361.631.17.30,02/Jun/2012:02:41:30 -0500,02,41,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+246,beautifulbear,97574,361.631.17.30,18/Sep/2012:05:46:30 -0500,05,46,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+247,beautifulbear,27268,681.321.388.334,02/Jun/2012:19:01:23 -0500,19,01,23,-0500,GET,/products/demos,0,/product/product6,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+248,beautifulbear,01774,18.331.368.5,19/Sep/2012:10:11:56 -0500,10,11,56,-0500,GET,/product/product3,0,/products,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+249,beautifulbear,01771,682.323.53.668,04/Jun/2012:10:37:00 -0500,10,37,00,-0500,GET,/home,0,-,Jakarta Commons-HttpClient/3.0.1,100
+250,beautifulbear,08199,364.614.604.386,22/Sep/2012:09:56:55 -0500,09,56,55,-0500,GET,/product/product1,0,/product/product1,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2),100
+251,beautifulbear,04846,612.77.11.633,04/Jun/2012:21:21:03 -0500,21,21,03,-0500,GET,/product/product1,0,/product/product1,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MDDR; InfoPath.2),100
+252,beautifulbear,11407,14.688.668.57,26/Sep/2012:17:31:30 -0500,17,31,30,-0500,GET,/download,0,-,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+253,beautifulbear,04479,86.668.646.60,06/Jun/2012:01:57:44 -0500,01,57,44,-0500,GET,/services/support,0,/services/support,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+254,beautifulbear,04491,361.631.17.30,31/Oct/2011:01:59:00 -0500,01,59,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+255,beautifulbear,09246,361.631.17.30,18/Jun/2012:21:48:00 -0500,21,48,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+256,beautifulbear,66107,361.631.17.30,31/Oct/2011:15:24:00 -0500,15,24,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+257,beautifulbear,44874,363.652.18.65,24/Jun/2012:21:47:43 -0500,21,47,43,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+258,beautifulbear,09378,668.53.638.303,02/Nov/2011:05:55:57 -0500,05,55,57,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+259,beautifulbear,82925,43.60.688.623,27/Jun/2012:01:03:30 -0500,01,03,30,-0500,GET,/sitemap,0,-,Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=15536552484838071304),100
+260,beautifulbear,96955,668.53.638.303,02/Nov/2011:09:19:35 -0500,09,19,35,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+261,beautifulbear,09271,650.47.30.618,29/Jun/2012:15:02:41 -0500,15,02,41,-0500,GET,/product/product6,0,/product/product5,Mozilla/5.0 (compatible; spbot/2.0.3; +http://www.seoprofiler.com/bot/ ),100
+262,beautifulbear,07249,325.87.75.336,02/Nov/2011:19:20:30 -0500,19,20,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+263,beautifulbear,07815,361.631.17.30,02/Jul/2012:08:33:28 -0500,08,33,28,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+264,beautifulbear,06444,363.652.18.65,04/Nov/2011:09:34:59 -0500,09,34,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+265,beautifulbear,06145,658.686.671.685,12/Jul/2012:08:38:18 -0500,08,38,18,-0500,GET,/product/product4,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+266,beautifulbear,01713,322.665.3.66,07/Nov/2011:00:46:30 -0500,00,46,30,-0500,GET,/home,0,-,Jakarta Commons-HttpClient/3.0.1,100
+267,beautifulbear,01756,325.87.75.336,18/Jul/2012:02:40:30 -0500,02,40,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+268,beautifulbear,98 57,41.64.323.681,07/Nov/2011:21:01:30 -0500,21,01,30,-0500,GET,/team,0,/team,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 NET_mmhpset,100
+269,beautifulbear,08157,11.308.46.48,24/Jul/2012:14:33:44 -0500,14,33,44,-0500,GET,/news,0,/news,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+270,beautifulbear,04778,654.606.331.32,12/Nov/2011:04:50:00 -0500,04,50,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65,100
+271,beautifulbear,66287,52.364.622.88,27/Jul/2012:10:41:45 -0500,10,41,45,-0500,GET,/product/product3,0,/product/product3,Mozilla/5.0 (X11; U; Linux x86_64; sv-SE; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+272,beautifulbear,80342,647.613.646.67,13/Nov/2011:03:24:11 -0500,03,24,11,-0500,GET,/product/product6,0,/product/product4,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; MALC; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+273,beautifulbear,09875,683.615.622.618,28/Jul/2012:16:59:37 -0500,16,59,37,-0500,GET,/partners/resell,0,/partners/resell,null,100
+274,beautifulbear,09026,361.631.17.30,16/Nov/2011:14:25:59 -0500,14,25,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+275,beautifulbear,67989,30.680.1.623,30/Jul/2012:07:38:24 -0500,07,38,24,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+276,beautifulbear,04039,363.652.18.65,19/Nov/2011:13:00:30 -0500,13,00,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+277,beautifulbear,07960,361.631.17.30,31/Jul/2012:05:15:27 -0500,05,15,27,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+278,beautifulbear,06097,323.628.678.664,21/Nov/2011:23:53:50 -0500,23,53,50,-0500,GET,/download/download7.zip,0,/download/download7.zip,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.4; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022),100
+279,beautifulbear,37761,601.650.2.660,31/Jul/2012:07:13:01 -0500,07,13,01,-0500,GET,/offers,0,/product/product4,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618),100
+280,beautifulbear,01735,361.631.17.30,25/Nov/2011:05:07:58 -0500,05,07,58,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+281,beautifulbear,09954,17.677.635.675,02/Aug/2012:13:09:00 -0500,13,09,00,-0500,GET,/products,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+282,beautifulbear,24298,368.638.57.67,28/Nov/2011:08:00:35 -0500,08,00,35,-0500,GET,/download/download1.zip,0,/download/download1.zip,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0),100
+283,beautifulbear,81296,361.30.603.01,10/Aug/2012:00:46:30 -0500,00,46,30,-0500,GET,/product/product1,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 OneRiot/1.0 (http://www.oneriot.com),100
+284,beautifulbear,24534,55.03.377.680,28/Nov/2011:15:58:38 -0500,15,58,38,-0500,GET,/product/product4,0,/buy,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; FDM),100
+285,beautifulbear,01726,332.378.77.632,13/Aug/2012:06:14:30 -0500,06,14,30,-0500,GET,/download,0,/download,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+286,beautifulbear,08102,367.34.686.631,29/Nov/2011:13:54:30 -0500,13,54,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+287,beautifulbear,04826,14.323.74.653,22/Aug/2012:09:43:00 -0500,09,43,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+288,beautifulbear,68469,361.321.73.6,30/Nov/2011:00:56:00 -0500,00,56,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+289,beautifulbear,07265,43.68.686.668,22/Aug/2012:19:37:30 -0500,19,37,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.11,100
+290,beautifulbear,06690,53.667.16.82,30/Nov/2011:21:41:20 -0500,21,41,20,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+291,beautifulbear,43458,83.300.84.608,23/Aug/2012:14:17:16 -0500,14,17,16,-0500,GET,/products/demos,0,/download/download1.zip,Mozilla/5.0 (Windows; U; Windows NT 6.1; pl; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9,100
+292,beautifulbear,63 08,361.631.17.30,02/Dec/2011:08:09:32 -0500,08,09,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+293,beautifulbear,09521,612.628.626.687,31/Aug/2012:09:13:00 -0500,09,13,00,-0500,GET,/products,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB6 (.NET CLR 3.5.30729),100
+294,beautifulbear,04525,10.673.305.70,09/Dec/2011:09:06:12 -0500,09,06,12,-0500,GET,/product/product3,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+295,beautifulbear,57205,52.51.668.65,01/Sep/2012:06:58:33 -0500,06,58,33,-0500,GET,/download,0,/download,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+296,beautifulbear,09924,361.631.17.30,10/Dec/2011:14:49:58 -0500,14,49,58,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+297,beautifulbear,07376,41.48.47.613,02/Sep/2012:02:28:32 -0500,02,28,32,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; FDM),100
+298,beautifulbear,66696,13.53.52.13,15/Dec/2011:16:31:59 -0500,16,31,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+299,beautifulbear,92805,367.34.686.631,02/Sep/2012:23:09:00 -0500,23,09,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+300,beautifulbear,75 23,638.88.668.307,18/Dec/2011:16:25:22 -0500,16,25,22,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+301,beautifulbear,04298,18.75.325.301,04/Sep/2012:10:34:12 -0500,10,34,12,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0),100
+302,beautifulbear,07300,326.8.368.607,20/Dec/2011:08:35:30 -0500,08,35,30,-0500,GET,/home,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+303,beautifulbear,09707,676.624.18.07,07/Sep/2012:15:54:58 -0500,15,54,58,-0500,GET,/product/product6,0,/product/demos/product2,MSR-ISRCCrawler,100
+304,beautifulbear,04319,55.615.51.35,24/Dec/2011:11:13:00 -0500,11,13,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+305,beautifulbear,07480,361.631.17.30,12/Sep/2012:07:42:58 -0500,07,42,58,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+306,beautifulbear,06211,363.12.302.642,27/Dec/2011:15:09:49 -0500,15,09,49,-0500,GET,/products/demos,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1) Gecko/20090624 Firefox/3.5,100
+307,beautifulbear,06865,664.687.377.602,12/Sep/2012:18:09:29 -0500,18,09,29,-0500,GET,/download/download3.zip,0,/download,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2; Creative AutoUpdate v1.10.10; AskTB5.5),100
+308,beautifulbear,01759,668.686.42.61,28/Dec/2011:00:32:33 -0500,00,32,33,-0500,GET,/partners,0,/partners,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; MS-RTC LM 8; OfficeLiveConnector.1.3; OfficeLivePatch.0.0),100
+309,beautifulbear,01701,14.323.74.653,13/Sep/2012:02:29:30 -0500,02,29,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+310,beautifulbear,43137,52.43.672.362,04/Jan/2012:12:12:06 -0500,12,12,06,-0500,GET,/docs/doc2.pdf,0,/docs/doc2.pdf,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+311,beautifulbear,04126,53.378.683.602,14/Sep/2012:13:11:32 -0500,13,11,32,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+312,beautifulbear,32800,75.622.36.380,05/Jan/2012:09:12:28 -0500,09,12,28,-0500,GET,/products,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 GTB5,100
+313,beautifulbear,02621,14.610.30.67,18/Sep/2012:08:54:30 -0500,08,54,30,-0500,GET,/product/product3,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),100
+314,beautifulbear,80516,680.330.387.7,05/Jan/2012:12:48:38 -0500,12,48,38,-0500,GET,/product/product3,0,/product/product3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322),100
+315,beautifulbear,94600,361.631.17.30,20/Sep/2012:23:24:59 -0500,23,24,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+316,beautifulbear,08102,322.6.648.325,05/Jan/2012:14:05:22 -0500,14,05,22,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+317,beautifulbear,04731,87.86.81.40,21/Sep/2012:05:54:30 -0500,05,54,30,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.1; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+318,beautifulbear,06435,30.672.8.336,06/Jan/2012:20:01:36 -0500,20,01,36,-0500,GET,/home,0,/home,Jakarta Commons-HttpClient/3.0.1,100
+319,beautifulbear,06597,367.34.686.631,22/Sep/2012:23:09:30 -0500,23,09,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+320,beautifulbear,90110,322.6.648.325,06/Jan/2012:20:30:54 -0500,20,30,54,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+321,beautifulbear,61561,13.626.82.338,24/Sep/2012:19:11:38 -0500,19,11,38,-0500,GET,/product/product3,0,/product/product3,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+322,beautifulbear,01794,650.47.72.628,06/Jan/2012:21:22:30 -0500,21,22,30,-0500,GET,/misc,0,-,Python-urllib/2.5,100
+323,beautifulbear,60546,41.631.382.601,25/Sep/2012:22:40:00 -0500,22,40,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+324,beautifulbear,04825,322.6.648.325,07/Jan/2012:06:32:49 -0500,06,32,49,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+325,beautifulbear,61449,361.54.46.628,27/Sep/2012:12:07:24 -0500,12,07,24,-0500,GET,/partners,0,/partners,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; Media Center PC 5.0),100
+326,beautifulbear,40 53,322.6.648.325,07/Jan/2012:09:04:53 -0500,09,04,53,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+327,beautifulbear,09264,628.44.58.626,30/Oct/2011:07:26:30 -0500,07,26,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.11,100
+328,beautifulbear,21605,322.6.648.325,08/Jan/2012:05:18:12 -0500,05,18,12,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+329,beautifulbear,89167,688.81.361.364,30/Oct/2011:18:34:01 -0500,18,34,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+330,beautifulbear,05075,10.46.36.375,10/Jan/2012:03:24:31 -0500,03,24,31,-0500,GET,/services/training,0,/services/training,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+331,beautifulbear,06819,14.323.74.653,03/Nov/2011:14:17:59 -0500,14,17,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+332,beautifulbear,06091,73.620.65.307,11/Jan/2012:10:41:25 -0500,10,41,25,-0500,GET,/about/customers,0,/team,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.9) Gecko/20100315 (CK-IBM) Firefox/3.5.9 (.NET CLR 3.5.30729),100
+333,beautifulbear,04091,326.04.648.05,06/Nov/2011:23:30:40 -0500,23,30,40,-0500,GET,/home,0,/home,Jakarta Commons-HttpClient/3.0.1,100
+334,beautifulbear,01732,14.323.74.653,14/Jan/2012:08:56:29 -0500,08,56,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+335,beautifulbear,68 66,322.1.620.601,08/Nov/2011:20:27:39 -0500,20,27,39,-0500,GET,/download,0,/download,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+336,beautifulbear,08144,43.681.68.74,16/Jan/2012:20:54:58 -0500,20,54,58,-0500,GET,/product/product6,0,/product/product6,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+337,beautifulbear,67819,651.65.03.77,15/Nov/2011:01:27:41 -0500,01,27,41,-0500,GET,/buy,0,/products,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),100
+338,beautifulbear,08709,638.616.303.80,17/Jan/2012:11:12:42 -0500,11,12,42,-0500,GET,/product/product1,0,/product/product1,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10,100
+339,beautifulbear,61390,361.631.17.30,15/Nov/2011:19:20:02 -0500,19,20,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+340,beautifulbear,01779,14.323.74.653,18/Jan/2012:11:34:00 -0500,11,34,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+341,beautifulbear,08112,668.53.638.303,21/Nov/2011:19:35:46 -0500,19,35,46,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+342,beautifulbear,39255,647.3.628.624,19/Jan/2012:20:25:06 -0500,20,25,06,-0500,GET,/product/demos/product2,0,/product/demos/product2,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6.3; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),100
+343,beautifulbear,82 77,636.306.78.11,22/Nov/2011:01:30:26 -0500,01,30,26,-0500,GET,/download/download7.zip,0,/download/download7.zip,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+344,beautifulbear,09640,664.684.605.672,20/Jan/2012:20:30:30 -0500,20,30,30,-0500,GET,/product/product12,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19,100
+345,beautifulbear,09036,11.673.336.328,22/Nov/2011:07:01:00 -0500,07,01,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+346,beautifulbear,04877,324.01.320.681,21/Jan/2012:23:00:30 -0500,23,00,30,-0500,GET,/news,0,-,msnbot/2.0b (+http://search.msn.com/msnbot.htm),100
+347,beautifulbear,07784,668.53.638.303,23/Nov/2011:23:52:34 -0500,23,52,34,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+348,beautifulbear,78153,687.642.616.333,25/Jan/2012:14:16:00 -0500,14,16,00,-0500,GET,/products,0,-,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 8),100
+349,beautifulbear,01735,363.378.632.375,29/Nov/2011:19:02:29 -0500,19,02,29,-0500,GET,/product/product1,0,/products/demos,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6.4),100
+350,beautifulbear,38760,53.667.16.82,25/Jan/2012:17:41:20 -0500,17,41,20,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+351,beautifulbear,41364,327.648.4.66,29/Nov/2011:20:12:15 -0500,20,12,15,-0500,GET,/download/download1.zip,0,/product/product6,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.1) Gecko/20090715 Firefox/3.5.1,100
+352,beautifulbear,51590,361.631.17.30,26/Jan/2012:11:12:29 -0500,11,12,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+353,beautifulbear,08188,57.306.688.601,01/Dec/2011:17:40:06 -0500,17,40,06,-0500,GET,/download/download1.zip,0,/docs/doc8.pdf,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB0.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; .NET CLR 3.0.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0),100
+354,beautifulbear,04394,688.688.361.672,28/Jan/2012:03:00:56 -0500,03,00,56,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+355,beautifulbear,68969,363.652.8.684,02/Dec/2011:14:42:00 -0500,14,42,00,-0500,GET,/product/product10,0,-,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Logica; GTB6.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; Logica; Logica),100
+356,beautifulbear,73362,325.681.11.84,30/Jan/2012:16:15:01 -0500,16,15,01,-0500,GET,/events/event7,0,/events/event7,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9 ( .NET CLR 3.5.30729; .NET4.0E),100
+357,beautifulbear,43306,680.3.687.387,03/Dec/2011:11:52:57 -0500,11,52,57,-0500,GET,/news,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+358,beautifulbear,01723,682.600.71.85,01/Feb/2012:13:41:35 -0500,13,41,35,-0500,GET,/partners,0,/partners,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+359,beautifulbear,27 83,322.87.338.682,04/Dec/2011:21:39:32 -0500,21,39,32,-0500,GET,/product/product2,0,/product/product2,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB0.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 1.1.4322; .NET CLR 3.0.30618; .NET4.0C; .NET4.0E),100
+360,beautifulbear,08194,11.673.336.328,02/Feb/2012:17:22:13 -0500,17,22,13,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+361,beautifulbear,04424,40.635.6.7,05/Dec/2011:11:36:49 -0500,11,36,49,-0500,GET,/offers,0,/offers,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2),100
+362,beautifulbear,69554,51.613.75.62,03/Feb/2012:06:13:58 -0500,06,13,58,-0500,GET,/partners/resell,0,/partners/resell,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MS-RTC LM 8; InfoPath.3),100
+363,beautifulbear,07366,53.660.634.362,06/Dec/2011:17:45:05 -0500,17,45,05,-0500,GET,/products,0,/product/product4,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; CognosRCP),100
+364,beautifulbear,06168,363.642.615.72,03/Feb/2012:15:02:30 -0500,15,02,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+365,beautifulbear,01761,43.678.368.367,07/Dec/2011:17:13:34 -0500,17,13,34,-0500,GET,/confirmed/sales,0,/products/demos,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB0.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0),100
+366,beautifulbear,08193,361.631.17.30,05/Feb/2012:07:31:28 -0500,07,31,28,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+367,beautifulbear,08169,14.688.663.667,10/Dec/2011:20:37:02 -0500,20,37,02,-0500,GET,/services/training/product4,0,/services/training,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+368,beautifulbear,18954,322.320.608.606,05/Feb/2012:21:13:00 -0500,21,13,00,-0500,GET,/product/product1,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),100
+369,beautifulbear,63577,325.87.75.336,14/Dec/2011:00:20:30 -0500,00,20,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+370,beautifulbear,62187,628.610.365.05,06/Feb/2012:06:59:30 -0500,06,59,30,-0500,GET,/product/product3,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+371,beautifulbear,26376,658.673.11.66,21/Dec/2011:00:22:00 -0500,00,22,00,-0500,GET,/product/product3,0,/products,Mozilla/5.0 (Windows; U; Windows NT 6.1; es-MX; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+372,beautifulbear,01782,361.631.17.30,06/Feb/2012:21:28:32 -0500,21,28,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+373,beautifulbear,10 69,361.631.17.30,31/Dec/2011:22:44:27 -0500,22,44,27,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+374,beautifulbear,99750,603.73.325.376,07/Feb/2012:01:08:06 -0500,01,08,06,-0500,GET,/services,0,/services,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MS-RTC LM 8),100
+375,beautifulbear,70485,687.8.67.671,03/Jan/2012:15:04:22 -0500,15,04,22,-0500,GET,/products,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20,100
+376,beautifulbear,06866,322.48.74.60,09/Feb/2012:20:20:14 -0500,20,20,14,-0500,GET,/docs/doc1.pdf,0,/docs/doc1.pdf,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729),100
+377,beautifulbear,01750,683.641.378.372,03/Jan/2012:18:03:00 -0500,18,03,00,-0500,GET,/product/product4,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2),100
+378,beautifulbear,09141,322.672.8.86,11/Feb/2012:01:11:56 -0500,01,11,56,-0500,GET,/product/product12,0,/product/product12,Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+379,beautifulbear,04269,322.6.648.325,05/Jan/2012:09:07:38 -0500,09,07,38,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+380,beautifulbear,07548,15.74.336.637,15/Feb/2012:20:41:00 -0500,20,41,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+381,beautifulbear,07210,361.631.17.30,05/Jan/2012:11:34:01 -0500,11,34,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+382,beautifulbear,94591,88.84.331.685,19/Feb/2012:07:33:30 -0500,07,33,30,-0500,GET,/contact,0,/team,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727),100
+383,beautifulbear,02991,322.6.648.325,06/Jan/2012:07:52:37 -0500,07,52,37,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+384,beautifulbear,10555,14.323.74.653,25/Feb/2012:03:26:31 -0500,03,26,31,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+385,beautifulbear,52996,322.6.648.325,06/Jan/2012:23:02:54 -0500,23,02,54,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+386,beautifulbear,09158,361.631.17.30,27/Feb/2012:07:42:02 -0500,07,42,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+387,beautifulbear,04148,322.6.648.325,08/Jan/2012:17:52:59 -0500,17,52,59,-0500,GET,/download/download3.zip,0,/download/download3.zip,Mozilla/4.0 (compatible; MSIE 5.00; Windows 98),100
+388,beautifulbear,07292,14.323.74.653,29/Feb/2012:16:27:01 -0500,16,27,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+389,beautifulbear,90757,361.631.17.30,13/Jan/2012:02:22:59 -0500,02,22,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+390,beautifulbear,08489,672.380.608.63,02/Mar/2012:14:05:44 -0500,14,05,44,-0500,GET,/services/training,0,/services/training,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+391,beautifulbear,08167,636.368.338.300,13/Jan/2012:15:00:58 -0500,15,00,58,-0500,GET,/download/download1.zip,0,/docs/doc2.pdf,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; FDM; .NET CLR 3.0.30729),100
+392,beautifulbear,09677,14.670.378.328,03/Mar/2012:19:28:07 -0500,19,28,07,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+393,beautifulbear,62694,56.688.334.363,14/Jan/2012:08:37:30 -0500,08,37,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+394,beautifulbear,07745,361.631.17.30,04/Mar/2012:15:29:59 -0500,15,29,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+395,beautifulbear,06053,321.618.665.72,14/Jan/2012:18:15:08 -0500,18,15,08,-0500,GET,/download,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 (.NET CLR 3.5.30729),100
+396,beautifulbear,82112,361.31.614.644,10/Mar/2012:07:20:30 -0500,07,20,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+397,beautifulbear,01728,40.666.678.46,17/Jan/2012:10:20:20 -0500,10,20,20,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Zune 4.0; .NET CLR 1.1.4322; OfficeLiveConnector.1.4; OfficeLivePatch.1.3),100
+398,beautifulbear,48397,361.631.17.30,14/Mar/2012:18:21:01 -0500,18,21,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+399,beautifulbear,50 59,636.306.80.382,22/Jan/2012:00:03:05 -0500,00,03,05,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506),100
+400,beautifulbear,09797,682.600.641.3,15/Mar/2012:12:20:24 -0500,12,20,24,-0500,GET,/download,0,/download,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1),100
+401,beautifulbear,04689,630.654.657.306,24/Jan/2012:01:48:30 -0500,01,48,30,-0500,GET,/products,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+402,beautifulbear,09866,325.87.75.36,18/Mar/2012:18:53:30 -0500,18,53,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+403,beautifulbear,09723,52.665.673.383,28/Jan/2012:08:25:00 -0500,08,25,00,-0500,GET,/product/product12,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022),100
+404,beautifulbear,43658,361.631.17.30,20/Mar/2012:09:01:00 -0500,09,01,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+405,beautifulbear,01721,58.635.56.633,30/Jan/2012:21:55:32 -0500,21,55,32,-0500,GET,/product/product1,0,/products/demos,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; OfficeLivePatch.1.3; OfficeLiveConnector.1.4; .NET CLR 3.0.30729; ie8_onetbuild_vistapl),100
+406,beautifulbear,01751,14.323.74.653,20/Mar/2012:09:33:00 -0500,09,33,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+407,beautifulbear,60 92,647.674.611.688,01/Feb/2012:03:49:00 -0500,03,49,00,-0500,GET,/partners/integrators,0,/partners/integrators,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729),100
+408,beautifulbear,09481,18.88.365.78,29/Mar/2012:16:45:00 -0500,16,45,00,-0500,GET,/news/releases/september,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727),100
+409,beautifulbear,07206,326.1.665.75,04/Feb/2012:13:49:08 -0500,13,49,08,-0500,GET,/misc,0,/events/event7,Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+410,beautifulbear,03845,361.631.17.30,11/Apr/2012:21:04:32 -0500,21,04,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+411,beautifulbear,20994,364.42.320.11,12/Feb/2012:20:21:00 -0500,20,21,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+412,beautifulbear,96803,640.71.335.680,12/Apr/2012:22:41:30 -0500,22,41,30,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.2.1; aggregator:Spinn3r (Spinn3r 3.1); http://spinn3r.com/robot) Gecko/20021130,100
+413,beautifulbear,71 33,325.623.328.687,12/Feb/2012:22:07:02 -0500,22,07,02,-0500,GET,/careers/sales,0,/careers/sales,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 (.NET CLR 3.5.30729),100
+414,beautifulbear,09569,361.631.17.30,16/Apr/2012:23:04:02 -0500,23,04,02,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+415,beautifulbear,07754,683.615.622.618,17/Feb/2012:17:48:01 -0500,17,48,01,-0500,GET,/partners/resell,0,/partners/resell,null,100
+416,beautifulbear,69940,361.631.17.30,27/Apr/2012:05:21:00 -0500,05,21,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+417,beautifulbear,06781,11.308.46.48,22/Feb/2012:08:55:43 -0500,08,55,43,-0500,GET,/news/releases/december,0,/news,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+418,beautifulbear,69118,50.308.78.374,29/Apr/2012:08:42:14 -0500,08,42,14,-0500,GET,/products/demos,0,/download,Mozilla/5.0 (X11; U; Linux i686 (x86_64); nl; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2,100
+419,beautifulbear,89717,85.370.620.11,23/Feb/2012:17:09:30 -0500,17,09,30,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+420,beautifulbear,16067,361.631.17.30,29/Apr/2012:13:28:32 -0500,13,28,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+421,beautifulbear,42378,364.663.667.331,23/Feb/2012:17:33:08 -0500,17,33,08,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+422,beautifulbear,22344,18.88.74.650,29/Apr/2012:21:37:45 -0500,21,37,45,-0500,GET,/about/customers,0,/events,msnbot-media/1.1 (+http://search.msn.com/msnbot.htm),100
+423,beautifulbear,01728,361.631.17.30,23/Feb/2012:18:59:00 -0500,18,59,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+424,beautifulbear,01718,51.8.45.88,30/Apr/2012:03:56:00 -0500,03,56,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.12.1,100
+425,beautifulbear,08170,670.360.334.38,24/Feb/2012:12:28:18 -0500,12,28,18,-0500,GET,/product/product4,0,/download,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+426,beautifulbear,04633,361.631.17.30,02/May/2012:17:02:01 -0500,17,02,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+427,beautifulbear,08119,55.668.671.648,26/Feb/2012:04:36:30 -0500,04,36,30,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2,100
+428,beautifulbear,04687,363.652.18.65,06/May/2012:19:04:29 -0500,19,04,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+429,beautifulbear,09074,52.654.81.685,27/Feb/2012:18:22:56 -0500,18,22,56,-0500,GET,/buy,0,/products,Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.3) Gecko/20100404 Firefox/3.6.3,100
+430,beautifulbear,04054,43.377.620.80,07/May/2012:13:09:25 -0500,13,09,25,-0500,GET,/product/demos/product2,0,/product/demos/product2,WordPress/MU; http://openerpappliance.com,100
+431,beautifulbear,07809,14.688.668.57,29/Feb/2012:03:26:30 -0500,03,26,30,-0500,GET,/team,0,-,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+432,beautifulbear,69053,14.688.668.57,10/May/2012:22:09:44 -0500,22,09,44,-0500,GET,/careers/capetown,0,/product/product6,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+433,beautifulbear,68161,361.631.17.30,29/Feb/2012:09:50:59 -0500,09,50,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+434,beautifulbear,52015,82.688.680.611,11/May/2012:05:17:15 -0500,05,17,15,-0500,GET,/products/demos,0,/products,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+435,beautifulbear,86415,363.652.18.65,09/Mar/2012:00:34:03 -0500,00,34,03,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+436,beautifulbear,44 36,325.87.75.336,12/May/2012:23:45:30 -0500,23,45,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+437,beautifulbear,09739,361.631.17.30,13/Mar/2012:15:20:30 -0500,15,20,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+438,beautifulbear,00624,361.631.17.30,17/May/2012:17:37:59 -0500,17,37,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+439,beautifulbear,07055,361.631.17.30,14/Mar/2012:02:21:01 -0500,02,21,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+440,beautifulbear,69025,363.652.18.65,21/May/2012:01:04:59 -0500,01,04,59,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+441,beautifulbear,61237,682.600.641.3,15/Mar/2012:17:40:11 -0500,17,40,11,-0500,GET,/confirmed/demo,0,/download,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+442,beautifulbear,06219,13.640.53.680,22/May/2012:04:32:00 -0500,04,32,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+443,beautifulbear,06053,682.380.36.688,15/Mar/2012:20:40:48 -0500,20,40,48,-0500,GET,/demo,0,/demo,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.30729),100
+444,beautifulbear,50 24,14.323.74.653,26/May/2012:13:10:30 -0500,13,10,30,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+445,beautifulbear,08177,361.631.17.30,26/Mar/2012:20:36:58 -0500,20,36,58,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+446,beautifulbear,63072,363.652.18.65,27/May/2012:09:04:29 -0500,09,04,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+447,beautifulbear,04583,640.638.64.658,02/Apr/2012:06:15:00 -0500,06,15,00,-0500,GET,/feeds/press,0,-,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1),100
+448,beautifulbear,04715,688.307.667.386,30/May/2012:12:22:17 -0500,12,22,17,-0500,GET,/feeds/press,0,/feeds/press,Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9,100
+449,beautifulbear,07549,661.46.63.38,07/Apr/2012:03:36:18 -0500,03,36,18,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; OfficeLiveConnector.1.3; OfficeLivePatch.0.0),100
+450,beautifulbear,95779,683.615.622.618,05/Jun/2012:01:25:30 -0500,01,25,30,-0500,GET,/partners/resell,0,/partners/resell,null,100
+451,beautifulbear,06688,361.631.17.30,08/Apr/2012:22:35:31 -0500,22,35,31,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+452,beautifulbear,93799,18.83.620.03,05/Jun/2012:18:49:15 -0500,18,49,15,-0500,GET,/contact,0,/contact,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4325;  .NET CLR 2.0.40607;  .NET CLR 3.0.04506.648),100
+453,beautifulbear,90508,83.380.687.328,09/Apr/2012:12:59:50 -0500,12,59,50,-0500,GET,/partners,0,/partners,Mozilla/5.0 (compatible; MJ12bot/v1.3.3; http://www.majestic12.co.uk/bot.php?+),100
+454,beautifulbear,07113,51.8.88.57,06/Jun/2012:06:46:30 -0500,06,46,30,-0500,GET,/docs/doc6.pdf,0,-,Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9 (.NET CLR 3.5.30729),100
+455,beautifulbear,63211,361.631.17.30,21/Apr/2012:03:32:58 -0500,03,32,58,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+456,beautifulbear,06738,56.50.86.606,11/Jun/2012:11:14:25 -0500,11,14,25,-0500,GET,/download/download6.zip,0,/download/download7.zip,Mozilla/5.0 (Windows; U; Windows NT 6.0; pt-PT; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 ( .NET CLR 3.5.30729),100
+457,beautifulbear,39804,361.631.17.30,28/Apr/2012:13:20:32 -0500,13,20,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+458,beautifulbear,28 07,11.308.46.48,19/Jun/2012:20:00:20 -0500,20,00,20,-0500,GET,/team,0,/product/product3,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+459,beautifulbear,19 85,363.652.18.65,10/May/2012:07:01:30 -0500,07,01,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+460,beautifulbear,09874,11.308.46.48,22/Jun/2012:01:16:34 -0500,01,16,34,-0500,GET,/events/event1,0,/news,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+461,beautifulbear,04755,30.604.58.34,16/May/2012:21:25:08 -0500,21,25,08,-0500,GET,/download,0,/products,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1),100
+462,beautifulbear,04387,367.668.83.656,27/Jun/2012:16:07:00 -0500,16,07,00,-0500,GET,/feeds/press,0,-,Apple-PubSub/65.11,100
+463,beautifulbear,83672,665.81.368.302,17/May/2012:01:10:00 -0500,01,10,00,-0500,GET,/product/product4,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+464,beautifulbear,07808,612.83.4.18,29/Jun/2012:23:20:24 -0500,23,20,24,-0500,GET,/products/demos,0,/products/demos,Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.9.1.9) Gecko/20100315 Firefox/3.5.9 ( .NET CLR 3.5.30729),100
+465,beautifulbear,45188,363.652.18.65,27/May/2012:03:03:30 -0500,03,03,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+466,beautifulbear,65948,678.53.04.3,04/Jul/2012:10:05:31 -0500,10,05,31,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6.5; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618),100
+467,beautifulbear,93968,53.82.388.36,29/May/2012:17:34:26 -0500,17,34,26,-0500,GET,/download/download6.zip,0,/download/download7.zip,Mozilla/5.0 (Windows; U; Windows NT 6.1; it; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+468,beautifulbear,08171,14.688.668.57,19/Jul/2012:05:06:23 -0500,05,06,23,-0500,GET,/news/releases/february,0,/misc,Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp),100
+469,beautifulbear,61707,361.631.17.30,10/Jun/2012:12:02:29 -0500,12,02,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+470,beautifulbear,19651,658.372.604.52,19/Jul/2012:13:45:32 -0500,13,45,32,-0500,GET,/buy,0,/buy,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.0.30618; .NET CLR 3.5.30729; BO1IE8_v1;ENUS),100
+471,beautifulbear,30945,14.323.74.653,13/Jun/2012:01:41:00 -0500,01,41,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+472,beautifulbear,06 41,361.631.17.30,23/Jul/2012:10:26:01 -0500,10,26,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+473,beautifulbear,65 34,14.323.74.653,13/Jun/2012:04:12:30 -0500,04,12,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+474,beautifulbear,09408,323.676.623.658,27/Jul/2012:09:58:24 -0500,09,58,24,-0500,GET,/partners,0,/partners,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+475,beautifulbear,23461,322.81.618.686,18/Jun/2012:00:10:00 -0500,00,10,00,-0500,GET,/offers,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+476,beautifulbear,04037,361.631.17.30,29/Jul/2012:07:10:00 -0500,07,10,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+477,beautifulbear,62794,52.53.3.70,23/Jun/2012:19:24:00 -0500,19,24,00,-0500,GET,/feeds/press,0,-,Mozilla/5.0 (compatible; Google Desktop/5.9.911.3589; http://desktop.google.com/),100
+478,beautifulbear,60107,88.635.80.86,30/Jul/2012:00:51:30 -0500,00,51,30,-0500,GET,/buy,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB0.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+479,beautifulbear,06974,14.323.74.653,25/Jun/2012:10:21:00 -0500,10,21,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+480,beautifulbear,37704,670.670.674.46,31/Jul/2012:21:20:19 -0500,21,20,19,-0500,GET,/contact,0,/contact,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MS-RTC LM 8),100
+481,beautifulbear,01745,45.624.635.308,26/Jun/2012:15:14:12 -0500,15,14,12,-0500,GET,/product/product6,0,/product/product12,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MALN),100
+482,beautifulbear,41385,687.625.650.16,02/Aug/2012:01:31:36 -0500,01,31,36,-0500,GET,/products,0,/products,Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+483,beautifulbear,19091,11.326.685.38,27/Jun/2012:08:57:30 -0500,08,57,30,-0500,GET,/feeds/press,0,-,JetBrains Omea Reader 2.2 (http://www.jetbrains.com/omea/reader/),100
+484,beautifulbear,07298,361.631.17.30,13/Aug/2012:01:00:00 -0500,01,00,00,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+485,beautifulbear,48261,688.647.73.613,28/Jun/2012:22:18:20 -0500,22,18,20,-0500,GET,/products,0,/services,Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727),100
+486,beautifulbear,06347,11.308.46.48,18/Aug/2012:07:43:47 -0500,07,43,47,-0500,GET,/product/product4,0,/home,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),100
+487,beautifulbear,01739,325.87.75.336,29/Jun/2012:21:50:30 -0500,21,50,30,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+488,beautifulbear,08120,668.378.0.613,23/Aug/2012:10:51:00 -0500,10,51,00,-0500,GET,/product/product1,0,-,Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3,100
+489,beautifulbear,04334,13.53.52.13,02/Jul/2012:11:46:00 -0500,11,46,00,-0500,GET,/demo,0,-,Jakarta Commons-HttpClient/3.0-rc4,100
+490,beautifulbear,82550,54.640.611.80,23/Aug/2012:17:19:30 -0500,17,19,30,-0500,GET,/product/product2,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2),100
+491,beautifulbear,04832,364.663.667.331,02/Jul/2012:18:40:40 -0500,18,40,40,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+492,beautifulbear,95886,683.615.622.618,23/Aug/2012:20:39:30 -0500,20,39,30,-0500,GET,/partners/resell,0,/partners/resell,null,100
+493,beautifulbear,19751,14.323.74.653,03/Jul/2012:06:35:01 -0500,06,35,01,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+494,beautifulbear,49164,50.630.626.3,24/Aug/2012:01:32:17 -0500,01,32,17,-0500,GET,/home,0,/home,Jakarta Commons-HttpClient/3.0.1,100
+495,beautifulbear,25001,42.84.75.42,03/Jul/2012:08:26:00 -0500,08,26,00,-0500,GET,/search,0,-,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3),100
+496,beautifulbear,18417,86.13.665.615,26/Aug/2012:01:17:40 -0500,01,17,40,-0500,GET,/services,0,/services,Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729),100
+497,beautifulbear,01747,48.603.338.645,03/Jul/2012:17:41:51 -0500,17,41,51,-0500,GET,/product/product3,0,/product/product3,Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3,100
+498,beautifulbear,90 95,14.323.74.653,28/Aug/2012:09:34:32 -0500,09,34,32,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100
+499,beautifulbear,08184,361.638.668.62,14/Jul/2012:04:11:37 -0500,04,11,37,-0500,GET,/partners,0,/partners,Mozilla/5.0 (Twiceler-0.9 http://www.cuil.com/twiceler/robot.html),100
+500,beautifulbear,04430,361.631.17.30,28/Aug/2012:11:29:29 -0500,11,29,29,-0500,GET,/demo,0,/demo,Jakarta Commons-HttpClient/3.0-rc4,100

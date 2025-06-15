@@ -1,0 +1,17 @@
+{
+	"id": "000",
+	"type": "donut",
+	"name": "Non creame",
+	"image":{
+			"url":"images/0001.jpg",
+			"width":200,
+			"height":200
+	},
+	"thumbnail": {
+			"url": "images/thumbnails/0001.jpg",
+			"width":33,
+			"height":33
+	}
+
+
+}
