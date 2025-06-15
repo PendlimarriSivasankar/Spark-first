@@ -1,0 +1,10 @@
+id,tdate,amount,category,product,spendby
+0,06-26-2011,300.47,Exercise,Gymnastics Pro,cash
+1,05-26-2011,200.88,Exercise Band,Weightlifting,credit
+2,06-01-2011,300.48,Exercise,Gymnastics Pro,upi
+3,06-05-2011,100.49,Gymnastics,Rings,credit
+4,12-17-2011,300.51,Team Sports,Field,cash
+5,02-14-2011,200.99,Gymnastics,,paytm
+6,06-05-2011,100.23,Exercise,Rings,credit
+7,12-17-2011,300.01,Team Sports,Field,upi
+8,02-14-2011,200.19,Gymnastics,,paytm
