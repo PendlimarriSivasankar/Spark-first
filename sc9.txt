@@ -1,0 +1,6 @@
+market_id,market_name,amount,location
+101,D-mart,500,chennai
+102,super store,300,chennai
+103,coludera,300,chennai
+104,super store,200,pondy
+105,walmart,100,pondy

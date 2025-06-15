@@ -1,0 +1,6 @@
+name,age,dept,sal
+Ram,20,Finance,50000
+Sandeep,25,Sales,30000
+Suresh,22,Finance,50000
+Pradeep,28,Finance,20000
+Iqbal,22,Sales,20000

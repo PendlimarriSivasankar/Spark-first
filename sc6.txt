@@ -1,0 +1,7 @@
+User_id,Mobilenumber,Msg_type,Mob_date
+12345,9848012345,outgoing,2022-jan-23
+67890,7774365743,incoming,2022-feb-01
+78915,6639949429,outgoing,2022-jan-23
+12345,6947578203,outgoing,2022-feb-02
+12345,9879474662,incoming,2022-jan-24
+12345,7974662920,outgoing,2022-feb-05

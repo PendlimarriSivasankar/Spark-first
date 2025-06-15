@@ -1,0 +1,8 @@
+employee,salary
+A,10
+B,10
+C,9
+D,8
+F,8
+G,7
+H,6

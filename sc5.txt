@@ -1,0 +1,6 @@
+country,population
+Brazil,10000
+India,15000
+US,20000
+UK,12000
+Europe,12000
