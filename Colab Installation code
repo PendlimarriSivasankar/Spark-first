@@ -1,0 +1,96 @@
+!wget -q https://github.com/saiadityaus1/test1/raw/main/df.csv -O df.csv
+!wget -q https://github.com/saiadityaus1/test1/raw/main/df1.csv -O df1.csv
+!wget -q https://github.com/saiadityaus1/test1/raw/main/dt.txt -O dt.txt
+!wget -q https://github.com/saiadityaus1/test1/raw/main/file1.txt -O file1.txt
+!wget -q https://github.com/saiadityaus1/test1/raw/main/file2.txt -O file2.txt
+!wget -q https://github.com/saiadityaus1/test1/raw/main/file3.txt -O file3.txt
+!wget -q https://github.com/saiadityaus1/test1/raw/main/file4.json -O file4.json
+!wget -q https://github.com/saiadityaus1/test1/raw/main/file5.parquet -O file5.parquet
+!wget -q https://github.com/saiadityaus1/test1/raw/main/file6 -O file6
+!wget -q https://github.com/saiadityaus1/test1/raw/main/prod.csv -O prod.csv
+!wget -q https://github.com/saiadityaus1/test1/raw/main/state.txt -O state.txt
+!wget -q https://github.com/saiadityaus1/test1/raw/main/usdata.csv -O usdata.csv
+!apt-get install openjdk-8-jdk-headless -qq > /dev/null
+!wget -q https://archive.apache.org/dist/spark/spark-3.5.0/spark-3.5.0-bin-hadoop3.tgz
+!tar xf spark-3.5.0-bin-hadoop3.tgz
+!pip install -q findspark
+import os
+os.environ["JAVA_HOME"] = "/usr/lib/jvm/java-8-openjdk-amd64"
+os.environ["SPARK_HOME"] = "/content/spark-3.5.0-bin-hadoop3"
+import findspark
+findspark.init()
+import sys
+import os
+python_path = sys.executable
+os.environ['PYSPARK_PYTHON'] = python_path
+from pyspark import SparkConf
+from pyspark import SparkContext
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import *
+conf = SparkConf().setAppName("pyspark").setMaster("local[*]").set("spark.driver.host","localhost").set("spark.driver.allowMultipleContexts","true")
+sc = SparkContext(conf=conf)
+spark = SparkSession.builder.config("spark.driver.allowMultipleContexts","true").getOrCreate()
+print("DONE==== START YOUR WORK👇 ")
+
+
+Scenerio-1
+Query to get who are getting equal salary
+Input :-
++--------+---------+--------+------+-------------------+------+
+|workerid|firstname|lastname|salary|        joiningdate|depart|
++--------+---------+--------+------+-------------------+------+
+|     001|   Monika|   Arora|100000|2014-02-20 09:00:00|    HR|
+|     002| Niharika|   Verma|300000|2014-06-11 09:00:00| Admin|
+|     003|   Vishal| Singhal|300000|2014-02-20 09:00:00|    HR|
+|     004|  Amitabh|   Singh|500000|2014-02-20 09:00:00| Admin|
+|     005|    Vivek|   Bhati|500000|2014-06-11 09:00:00| Admin|
++--------+---------+--------+------+-------------------+------+
+Expected Output :-
++--------+---------+--------+------+-------------------+------+
+|workerid|firstname|lastname|salary|        joiningdate|depart|
++--------+---------+--------+------+-------------------+------+
+|     002| Niharika|   Verma|300000|2014-06-11 09:00:00| Admin|
+|     003|   Vishal| Singhal|300000|2014-02-20 09:00:00|    HR|
+|     004|  Amitabh|   Singh|500000|2014-02-20 09:00:00| Admin|
+|     005|    Vivek|   Bhati|500000|2014-06-11 09:00:00| Admin|
++--------+---------+--------+------+-------------------+------+
+
+
+data = [("001", "Monika", "Arora", 100000, "2014-02-20 09:00:00", "HR"),("002", "Niharika", "Verma", 300000, "2014-06-11 09:00:00", "Admin"),("003", "Vishal", "Singhal", 300000, "2014-02-20 09:00:00", "HR"),("004", "Amitabh", "Singh", 500000, "2014-02-20 09:00:00", "Admin"),("005", "Vivek", "Bhati", 500000, "2014-06-11 09:00:00", "Admin")]
+myschema = ["workerid","firstname","lastname","salary","joiningdate","depart"]
+df = spark.createDataFrame(data,schema=myschema)
+df.show()
+#Through SQL
+df.createOrReplaceTempView("worktab")
+spark.sql("select a.workerid,a.firstname,a.lastname,a.salary,a.joiningdate,a.depart from worktab a, worktab b where a.salary=b.salary and a.workerid !=b.workerid").show()
+
+#Through Spark DSL
+finaldf = df.alias("a").join(df.alias("b"), (col("a.salary") == col("b.salary")) & (col("a.workerid") != col("b.workerid")), "inner").select(col("a.workerid"), col("a.firstname"), col("a.lastname"), col("a.salary"), col("a.joiningdate"), col("a.depart")).show()
+
++--------+---------+--------+------+-------------------+------+
+|workerid|firstname|lastname|salary|        joiningdate|depart|
++--------+---------+--------+------+-------------------+------+
+|     001|   Monika|   Arora|100000|2014-02-20 09:00:00|    HR|
+|     002| Niharika|   Verma|300000|2014-06-11 09:00:00| Admin|
+|     003|   Vishal| Singhal|300000|2014-02-20 09:00:00|    HR|
+|     004|  Amitabh|   Singh|500000|2014-02-20 09:00:00| Admin|
+|     005|    Vivek|   Bhati|500000|2014-06-11 09:00:00| Admin|
++--------+---------+--------+------+-------------------+------+
+
++--------+---------+--------+------+-------------------+------+
+|workerid|firstname|lastname|salary|        joiningdate|depart|
++--------+---------+--------+------+-------------------+------+
+|     002| Niharika|   Verma|300000|2014-06-11 09:00:00| Admin|
+|     003|   Vishal| Singhal|300000|2014-02-20 09:00:00|    HR|
+|     004|  Amitabh|   Singh|500000|2014-02-20 09:00:00| Admin|
+|     005|    Vivek|   Bhati|500000|2014-06-11 09:00:00| Admin|
++--------+---------+--------+------+-------------------+------+
+
++--------+---------+--------+------+-------------------+------+
+|workerid|firstname|lastname|salary|        joiningdate|depart|
++--------+---------+--------+------+-------------------+------+
+|     002| Niharika|   Verma|300000|2014-06-11 09:00:00| Admin|
+|     003|   Vishal| Singhal|300000|2014-02-20 09:00:00|    HR|
+|     004|  Amitabh|   Singh|500000|2014-02-20 09:00:00| Admin|
+|     005|    Vivek|   Bhati|500000|2014-06-11 09:00:00| Admin|
++--------+---------+--------+------+-------------------+------+
