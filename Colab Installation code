@@ -1,3 +1,5 @@
+Web url: take this url and paste it into google,  https://colab.research.google.com/#create=true ,press entre.
+
 !wget -q https://github.com/saiadityaus1/test1/raw/main/df.csv -O df.csv
 !wget -q https://github.com/saiadityaus1/test1/raw/main/df1.csv -O df1.csv
 !wget -q https://github.com/saiadityaus1/test1/raw/main/dt.txt -O dt.txt
