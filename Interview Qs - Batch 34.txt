@@ -1,0 +1,262 @@
+Q1 :
+name    		sal
+sree_ramesh   	 	100
+chiran_tan    		200
+ram_krish    		300
+john_stan    		400
+mar_jany    		200
+
+sort using name column after '_' like _jany
+
+
+
+Q2 :
+emp_id    dept_id    sal    hire_date
+10    	  10         600    10-Jan-19
+20        10         200    10-Jun-19
+30        20        300    20-Jan-20
+40        30        400    30-Jun-20
+select employee by older with hire date by department
+
+Q3:
+id   Name  	Dept  Manager
+101  John  	A	 null
+102  Dan	A	 101
+103  James  	A	 101
+104  Amy	A	 101
+105  Anne   	A	 101
+106  Ron	B	 101
+
+write a sql query to find manager name with atleast 5 reporting employees
+
+Q4:
+ EMPID EMNAME MNGID
+101   Mary	   102
+102   Ravi	   NULL
+103   Raj		102
+104   Pete	   103
+105   Prasad	103
+106   Ben		103  
+output
+MNGID EMNAME
+102     Ravi
+103     Raj
+
+first given is input MNGID = EMPID ,we need to get only manager details MNGID
+
+Q5:
+TeamA|TeamB|Won
+A	 | D   | D
+B	 | A   | A 
+A	 | D   | A
+
+Output:
+TeamName|Won|Lost
+A		|2	|1
+B		|0	|1
+D		|1	|1
+
+Please write a Sql query to get the above mentioned input
+
+Q6:
+Write a Spark Code to standarize the column and replace Space with UnderScare(_)
+
+Input csv file
+Emp Id,Emp Name,Dept Name
+101,Alice,Sales
+102,Bob,Sales
+
+Q7:
+input df(range is score of students we need to count 
+the students who are score more than the each range 
+as output )
+Range    Number 
+90    2
+60    3
+70    5
+80    1
+ 
+ output df
+Score     Number 
+90    2
+80    3
+70    8
+60    11
+
+Q8:
+Input -> my_list = ['abc', 'for', 'abc', 'like','geek1','nerdy', 'xyz', 'love','questions','words', 'life']
+			   
+Output -> [['abc', 'for', 'abc', 'like', 'geek1'], 
+ ['nerdy', 'xyz', 'love', 'questions', 'words'], 
+ ['life']]
+
+input : sahil sahoo
+output: SaHiL sAhOo
+
+Q9:
+2 json tables 
+
+Emp table - empid,empsal,empname,depid
+
+Depttable- deptid,deptname
+
+Need 2 highest salary for both emp and dept tables
+ Spark Scala or Spark SQL
+
+Q10:
+A1 = [1,2,3]
+A2 = [2,3,4]
+
+Output - [1,2,3,4]
+
+Q11:
+input
+id     name
+1     Henry
+2     Smith
+3     Hall
+
+id   salary
+1    100
+2    500
+4    1000
+
+​output
+id   name   salary
+1    Henry   100
+2    Smith   500
+3    Hall    0
+
+
+Q12:
+input
+id   subject
+1     Spark
+1     Scala
+1     Hive
+2     Scala
+3     Spark
+3     Scala
+​output
+id   subject  
+1    [Spark, Scala, Hive]
+2    [Scala]
+3    [Spark, Scala]
+
+
+Q13:
+input
+Id  subject  marks 
+101 Eng      90
+101 Sci      80
+101 Mat      95 
+102 Eng      75
+102 Sci      85
+102 Mat      90
+
+
+output
+Id Eng  Sci  Mat
+101 90   80   95
+102 75   85   90
+
+Q14:
+input:  List(10,5,24,'Hi',90,12,'Hello')
+output: take number only to list
+
+Q15:
+input:
+id    name      email
+1     Henry     henry12@gmail.com
+2     Smith     smith@yahoo.com
+3     Martin    martin221@hotmail.com
+​output:
+id    name     domain
+1    Henry     gmail.com
+2    Smith     yahoo.com
+3    Martin    hotmail.com
+
+Q16:
+student table
+
+student_name subject marks dense  rank row_no
+a english  99     1 1 1
+b english 99   1 1 2
+b  maths
+c science
+c english 98 2 3
+
+There is a table which contains two columns Student and Marks, you need to find all the students, whose marks are greater than average marks i.e. list of above-average students.
+
+
+Q17:
+Table – EmployeeDetails
+
+EmpId FullName ManagerId DateOfJoining City
+121 John Snow 321 01/31/2014 Toronto
+321 Walter White 986 01/30/2015 California
+421 Kuldeep Rana 876 27/11/2016 New Delhi
+
+Table – EmployeeSalary
+EmpId Project Salary Variable
+121 P1 8000 500
+321 P2 10000 1000
+421 P1 12000 0
+​
+Output:
+
+1)update the salary of employee ID 421 to 8000
+
+2) create a final dataframe with two columns, 
+where finaldf = employe names and finalsalary(finalsalary = variable + salary)
+
+Q18:
+InPut
+======
+1, (IT, HR)
+2 , (MR, Sales, Finance)
+
+OutPut 
+=========
+    1  IT
+    1  HR
+    2  MR
+    2 Sales
+    2  Finance
+	
+Q19:
+voting_data.csv:
+Name,Age,Gender,Constituency,Voting_id
+aaa,22,M,TN,RAZ000
+bbb,27,M,MH,RAZ009
+ccc,35,F,KA,RAZ007
+ddd,19,F,TN,RAZ004
+eee,46,M,AP,RAZ002 
+ 
+1.Read the csv and create a dataframe
+2.Add a new column age_Check to df with condition age > 18 then true else false 
+3.Create a table from dataframe and retrieve contents from it where gender is male
+
+Q20:
+PatientName	PlanId	Amt	Status
+1	X	1	100	
+2	X	1	200	
+3	Y	2	200	
+4	Y	2	300	
+5	Z	3	400	
+6	B	3	400	
+				
+Plan				
+PlanID	PlanName	Limit		
+1	Plan A	150		
+2	Plan B	250		
+3	Plan C	350		
+				
+				
+Result_1-Get Plan for each claim				
+PatientName	PlanName			
+X	Plan A			
+Y	Plan B			
+Z	Plan C			
+B	Plan C
+
